@@ -1,0 +1,10 @@
+Phase ID,Aircraft_Phase
+1,Landing (LDG)
+2,En route (ENR)
+3,Taxi (TXI)
+4,Standing (STD)
+5,Initial climb (ICL)
+6,Approach (APR)
+7,Takeoff (TOF)
+8,Pushback / towing (PBT)
+9,Unknown (UNK)

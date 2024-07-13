@@ -1,0 +1,1 @@
+sqlite3 travel.db .dump > airline.sql

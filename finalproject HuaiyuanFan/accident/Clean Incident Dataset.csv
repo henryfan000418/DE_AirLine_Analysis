@@ -1,0 +1,486 @@
+Incident_Date,Aircaft_Model,Aircaft_Operator,Incident_Location,Aircaft_Damage_Type,Fatalities,Aircraft_Phase,Departure_Country,Destination_Country,Flight_Type,Occupants,Incident_Type,Incident_Damage
+05-JAN-2022,Boeing 737,Caspian Airlines,Isfahan-Shah...,Substantial,0,Landing (LDG),Iran,Iran,Domestic,116.0,Accident , repairable-damage
+09-JAN-2021,Boeing 737,Sriwijaya Air,near Jakarta-Soek...,Destroyed,62,En route (ENR),Indonesia,Indonesia,Domestic,62.0,Accident , hull-loss
+18-MAR-2021,Airbus A320,Viva Aerobus,Puerto Valla...,Substantial,0,Taxi (TXI),Mexico,Mexico,Domestic,127.0,Accident , repairable-damage
+11-JUL-2021,Airbus A320,Condor Flugdienst,Kavala-Megas...,Substantial,0,Takeoff (TOF),Greece,Germany,International,80.0,Accident , repairable-damage
+23-SEP-2021,Airbus A321,Hawaiian Airlines,Honolulu-Dan...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,134.0,Accident , repairable-damage
+08-JAN-2020,Boeing 737,Ukraine International Airlines,near Sabashahr,Destroyed,176,En route (ENR),Iran,Ukraine,International,176.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+08-JAN-2020,Boeing 737,American Airlines,New York-La ...,Substantial,0,Standing (STD),United States of America,United States of America,Domestic,121.0,Accident , repairable-damage
+03-FEB-2020,Boeing 767,Air Canada,Madrid-Baraj...,Minor,0,Takeoff (TOF),Spain,Canada,International,138.0,Incident , repairable-damage
+05-FEB-2020,Boeing 737,Pegasus Airlines,Istanbul-Sab...,Destroyed,3,Landing (LDG),Turkey,Turkey,Domestic,183.0,Accident , hull-loss
+09-FEB-2020,Boeing 737,Utair,Usinsk Airpo...,Substantial,0,Landing (LDG),Russia,Russia,Domestic,100.0,Accident , repairable-damage
+14-FEB-2020,Cessna 208 Caravan,MAF,Miyanmin Air...,Substantial,0,Landing (LDG),Papua New Guinea,Papua New Guinea,Domestic,11.0,Accident , repairable-damage
+19-MAY-2020,Boeing 737,Swift Air,near Victorville-...,Substantial,0,Initial climb (ICL),United States of America,United States of America,Domestic,95.0,Accident , repairable-damage
+22-MAY-2020,Airbus A320,PIA,near Karachi-Jinn...,Destroyed,98,Approach (APR),Pakistan,Pakistan,Domestic,99.0,Accident , hull-loss
+07-AUG-2020,Boeing 737,Air India Express,Kozhikode-Ca...,Destroyed,21,Landing (LDG),United Arab Emirates,India,International,190.0,Accident , hull-loss
+28-AUG-2020,Boeing 767,Omni Air International,Bucharest Ba...,Substantial,0,Landing (LDG),Afghanistan,Romania,International,64.0,Accident , repairable-damage
+29-AUG-2020,Boeing 737,Skymark Airlines,near Tokyo-Haneda...,Substantial,0,Initial climb (ICL),Japan,Japan,Domestic,76.0,Accident , repairable-damage
+02-DEC-2020,Boeing 737,Air Djibouti,Garowe Airpo...,Substantial,0,Landing (LDG),Somalia,Somalia,Domestic,44.0,Accident , repairable-damage
+08-FEB-2019,Airbus A321,Novair,Billund Airp...,Substantial,0,Landing (LDG),Spain,Denmark,International,212.0,Accident , repairable-damage
+24-FEB-2019,Boeing 737,Biman Bangladesh,Chittagong-S...,Minor,1,En route (ENR),Bangladesh,Bangladesh,Domestic,148.0,Hijacking , repairable-damage
+01-MAR-2019,Airbus A320,LaudaMotion,London-Stans...,Substantial,0,Takeoff (TOF),United Kingdom,Austria,International,176.0,Incident , repairable-damage
+03-MAR-2019,Airbus A320,Avianca Brasil,Rio de Janei...,Substantial,0,Landing (LDG),Brazil,Brazil,Domestic,168.0,Accident , repairable-damage
+10-MAR-2019,Boeing 737,Ethiopian Airlines,near Addis Ababa-...,Destroyed,157,En route (ENR),Ethiopia,Kenya,International,157.0,Accident , hull-loss
+23-MAR-2019,Airbus A320,Wizz Air,Bristol Airp...,Minor,0,Pushback / towing (PBT),United Kingdom,Poland,International,165.0,Accident , repairable-damage
+03-APR-2019,Airbus A320,easyJet,Belfast Inte...,Minor,0,Pushback / towing (PBT),United Kingdom,Spain,International,186.0,Accident , repairable-damage
+10-APR-2019,Airbus A321,American Airlines,New York-Joh...,Substantial,0,Takeoff (TOF),United States of America,United States of America,Domestic,109.0,Accident , hull-loss
+03-MAY-2019,Boeing 737,Miami Air International,Jacksonville...,Substantial,0,Landing (LDG),Cuba,United States of America,International,143.0,Accident , hull-loss
+05-MAY-2019,Sukhoi Superjet 100,Aeroflot,Moskva-Shere...,Destroyed,41,Landing (LDG),Russia,Russia,Domestic,78.0,Accident , hull-loss
+09-JUN-2019,Boeing 737,United Airlines,Denver Inter...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,184.0,Accident , repairable-damage
+17-JUN-2019,Boeing 737,Southwest Airlines,Pittsburgh-G...,Substantial,0,Standing (STD),United States of America,United States of America,Domestic,180.0,Accident , repairable-damage
+01-JUL-2019,Boeing 737,SpiceJet,Mumbai-Chhat...,Substantial,0,Landing (LDG),India,India,Domestic,167.0,Accident , hull-loss
+23-JUL-2019,Boeing 737,Air Peace,Lagos-Murtal...,Substantial,0,Landing (LDG),Nigeria,Nigeria,Domestic,139.0,Accident , repairable-damage
+26-JUL-2019,Cessna 208 Caravan,Seair Seaplanes,Addenbroke I...,Destroyed,4,En route (ENR),Canada,Canada,Domestic,9.0,Accident , hull-loss
+08-AUG-2019,Airbus A321,Frontier Airlines,Orlando Inte...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,232.0,Accident , repairable-damage
+15-AUG-2019,Airbus A321,Ural Airlines,near Zhukovsky In...,Substantial,0,Initial climb (ICL),Russia,Russia,Domestic,233.0,Accident , hull-loss
+16-NOV-2019,Boeing 777,Korean Air,Frankfurt In...,Substantial,0,Taxi (TXI),South Korea,Germany,International,261.0,Accident , repairable-damage
+21-NOV-2019,Boeing 737,THY,Odessa-Centr...,Substantial,0,Landing (LDG),Turkey,Ukraine,International,142.0,Accident , hull-loss
+22-NOV-2019,Boeing 737,Avior,Bogotá-Eldor...,Substantial,0,Landing (LDG),Venezuela,Colombia,International,99.0,Accident , hull-loss
+22-DEC-2019,Boeing 737,United Airlines,Denver Inter...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,171.0,Accident , repairable-damage
+05-JAN-2018,Boeing 737,WestJet,Toronto-Pear...,Substantial,0,Standing (STD),Mexico,Canada,International,174.0,Accident , repairable-damage
+13-JAN-2018,Boeing 737,Pegasus Airlines,Trabzon Airp...,Substantial,0,Landing (LDG),Turkey,Turkey,Domestic,168.0,Accident , hull-loss
+27-MAR-2018,Airbus A319,easyJet,Murcia-San J...,Substantial,0,Takeoff (TOF),Spain,United Kingdom,International,130.0,Accident , repairable-damage
+28-MAR-2018,Boeing 737,Germania,Tel Aviv-Ben...,Substantial,0,Pushback / towing (PBT),Israel,Germany,International,127.0,Accident , repairable-damage
+28-MAR-2018,Boeing 767,El Al,Tel Aviv-Ben...,Substantial,0,Pushback / towing (PBT),Israel,Italy,International,270.0,Accident , hull-loss
+09-APR-2018,Boeing 737,Korean Air,Osaka-Kansai...,Substantial,0,Landing (LDG),South Korea,Japan,International,99.0,Accident , repairable-damage
+17-APR-2018,Boeing 737,Southwest Airlines,near Philadelphia...,Substantial,1,En route (ENR),United States of America,United States of America,Domestic,149.0,Accident , hull-loss
+29-APR-2018,Boeing 737,Lion Air,Gorontalo-Ja...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,181.0,Accident , repairable-damage
+30-APR-2018,Boeing 737,Ryanair,London-Stans...,Substantial,0,Pushback / towing (PBT),United Kingdom,Greece,International,177.0,Accident , repairable-damage
+01-MAY-2018,Bombardier CRJ,"Endeavor Air, opf Delta Connection",New York-Joh...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,60.0,Accident , repairable-damage
+02-MAY-2018,Boeing 737,TUI fly Belgium,Marrakech-Me...,Substantial,0,Landing (LDG),France,Morocco,International,188.0,Accident , repairable-damage
+07-MAY-2018,Boeing 737,Southwest Airlines,Baltimore/Wa...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,179.0,Accident , repairable-damage
+18-MAY-2018,Boeing 737,"Cubana, lsf Global Air",near Havana-José ...,Destroyed,112,Takeoff (TOF),Cuba,Cuba,Domestic,113.0,Accident , hull-loss
+16-JUL-2018,Boeing 737,Flybondi,Cataratas de...,Substantial,0,Takeoff (TOF),Argentina,Argentina,Domestic,71.0,Accident , repairable-damage
+16-JUL-2018,Boeing 737,Gol,Belo Horizon...,Substantial,0,Landing (LDG),Brazil,Brazil,Domestic,142.0,Accident , repairable-damage
+13-AUG-2018,Airbus A321,Hawaiian Airlines,Los Angeles ...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,197.0,Accident , repairable-damage
+16-AUG-2018,Boeing 737,Xiamen Airlines,Manila-Ninoy...,Substantial,0,Landing (LDG),China,Philippines,International,165.0,Accident , hull-loss
+26-AUG-2018,Boeing 767,Air Canada Rouge,near Vancouver In...,Substantial,0,En route (ENR),Canada,Ireland,International,265.0,Accident , repairable-damage
+28-AUG-2018,Airbus A320,Beijing Capital Airlines,Macau Airpor...,Substantial,0,Landing (LDG),China,Macau,International,166.0,Accident , repairable-damage
+01-SEP-2018,Boeing 737,Utair,Adler/Sochi ...,Destroyed,0,Landing (LDG),Russia,Russia,Domestic,172.0,Accident , hull-loss
+26-SEP-2018,Boeing 737,US-Bangla Airlines,Chittagong-S...,Substantial,0,Landing (LDG),Bangladesh,Bangladesh,Domestic,173.0,Accident , repairable-damage
+28-SEP-2018,Boeing 737,Air Niugini,near Chuuk/Weno I...,Substantial,1,Approach (APR),Micronesia,Micronesia,Domestic,47.0,Accident , hull-loss
+10-OCT-2018,Sukhoi Superjet 100,Yakutia Airlines,Yakutsk Airp...,Substantial,0,Landing (LDG),Russia,Russia,Domestic,92.0,Accident , hull-loss
+12-OCT-2018,Boeing 737,Air India Express,Tiruchirappa...,Substantial,0,Takeoff (TOF),India,United Arab Emirates,International,136.0,Accident , repairable-damage
+29-OCT-2018,Boeing 737,Lion Air,near Tanjung Bungin,Destroyed,189,En route (ENR),Indonesia,Indonesia,Domestic,189.0,Accident , hull-loss
+11-DEC-2018,Boeing 777,Air Canada,Hong Kong-Ch...,Substantial,0,Landing (LDG),Canada,Hong Kong,International,393.0,Accident , repairable-damage
+03-MAR-2017,Airbus A320,easyJet,Manchester A...,Substantial,0,Pushback / towing (PBT),United Kingdom,Denmark,International,178.0,Accident , repairable-damage
+27-MAR-2017,Boeing 737,Taban Air,Ardabil Airp...,Substantial,0,Landing (LDG),Iran,Iran,Domestic,185.0,Accident , repairable-damage
+28-MAR-2017,Boeing 737,Peruvian Airlines,Jauja-Franci...,Destroyed,0,Landing (LDG),Peru,Peru,Domestic,149.0,Accident , hull-loss
+08-APR-2017,Boeing 737,Malaysia Airlines,Sibu Airport...,Substantial,0,Landing (LDG),Malaysia,Malaysia,Domestic,69.0,Accident , repairable-damage
+24-MAY-2017,Cessna 208 Caravan,Alaska Seaplanes,Elfin Cove S...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,8.0,Accident , repairable-damage
+31-MAY-2017,Boeing 737,Sriwijaya Air,Manokwari-Re...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,152.0,Accident , hull-loss
+21-JUL-2017,Cessna 208 Caravan,Tailwind Air Service,Lower East R...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,9.0,Accident , hull-loss
+03-AUG-2017,Boeing 737,Lion Air,Medan-Kualan...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,151.0,Accident , repairable-damage
+15-AUG-2017,Boeing 737,Delta Air Lines,New York-Joh...,Minor,0,Taxi (TXI),United States of America,United States of America,Domestic,166.0,Accident , repairable-damage
+05-SEP-2017,Boeing 737,Air India Express,Cochin Inter...,Substantial,0,Landing (LDG),United Arab Emirates,India,International,108.0,Accident , repairable-damage
+12-SEP-2017,Boeing 737,United Airlines,Los Angeles ...,Minor,0,Taxi (TXI),United States of America,United States of America,Domestic,140.0,Accident , repairable-damage
+15-SEP-2017,Airbus A321,American Airlines,Bridgetown-G...,Substantial,0,Landing (LDG),United States of America,Barbados,International,143.0,Accident , repairable-damage
+15-SEP-2017,Boeing 737,Ryanair,London-Stans...,Minor,0,Takeoff (TOF),United Kingdom,Denmark,International,190.0,Accident , repairable-damage
+30-SEP-2017,Airbus A321,American Airlines,Washington-R...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,191.0,Accident , repairable-damage
+30-SEP-2017,Boeing 737,American Airlines,Washington-R...,Minor,0,Taxi (TXI),United States of America,United States of America,Domestic,110.0,Accident , repairable-damage
+02-OCT-2017,Boeing 737,Southwest Airlines,Chicago-Midw...,Substantial,0,Standing (STD),United States of America,United States of America,Domestic,84.0,Accident , repairable-damage
+14-OCT-2017,Boeing 737,Qantas,Sydney-Kings...,Minor,0,Pushback / towing (PBT),Australia,Australia,Domestic,181.0,Accident , repairable-damage
+30-OCT-2017,Boeing 767,WestJet,Toronto - Lo...,Substantial,0,En route (ENR),Canada,United Kingdom,International,264.0,Accident , repairable-damage
+02-DEC-2017,Boeing 777,Eva Air,Toronto-Pear...,Substantial,0,Taxi (TXI),Canada,Taiwan,International,262.0,Accident , repairable-damage
+14-JAN-2016,Airbus A319,Air Namibia,near Windhoek-Hos...,Substantial,0,Approach (APR),Angola,Namibia,International,110.0,Accident , repairable-damage
+28-JAN-2016,Cessna 208 Caravan,Hamilton Island Air,"Chance Bay, ...",Substantial,0,Landing (LDG),Australia,Australia,Domestic,11.0,Accident , hull-loss
+02-FEB-2016,Airbus A321,"Hermes Airlines, op.for Daallo Airlines",near Mogadishu In...,Substantial,1,En route (ENR),Somalia,Djibouti,International,81.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+17-FEB-2016,Boeing 737,American Airlines,Detroit-Metr...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,155.0,Accident , repairable-damage
+03-MAR-2016,Boeing 737,Jet Airways,Mumbai-Chhat...,Substantial,0,Landing (LDG),India,India,Domestic,128.0,Accident , repairable-damage
+19-MAR-2016,Boeing 737,flydubai,Rostov Airpo...,Destroyed,62,Approach (APR),United Arab Emirates,Russia,International,62.0,Accident , hull-loss
+04-APR-2016,Boeing 737,Batik Air,Jakarta-Hali...,Substantial,0,Takeoff (TOF),Indonesia,Indonesia,Domestic,56.0,Accident , repairable-damage
+11-MAY-2016,Airbus A320,Air France,Paris-Charle...,Substantial,0,Taxi (TXI),France,Tunisia,International,64.0,Accident , repairable-damage
+19-MAY-2016,Airbus A320,EgyptAir,near Egyptian coast,Destroyed,66,En route (ENR),France,Egypt,International,66.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+27-MAY-2016,Boeing 777,Korean Air,Tokyo-Haneda...,Minor,0,Takeoff (TOF),Japan,South Korea,International,319.0,Accident , repairable-damage
+27-JUN-2016,Boeing 777,Singapore Airlines,Singapore-Ch...,Substantial,0,Landing (LDG),Singapore,Italy,International,241.0,Accident , repairable-damage
+03-AUG-2016,Boeing 777,Emirates,Dubai Airpor...,Destroyed,1,Landing (LDG),India,United Arab Emirates,International,300.0,Accident , hull-loss
+04-AUG-2016,Boeing 737,Southwest Airlines,Baltimore/Wa...,Substantial,0,Pushback / towing (PBT),United States of America,United States of America,Domestic,135.0,Accident , hull-loss
+09-AUG-2016,Boeing 737,Delta Air Lines,New York-Joh...,Substantial,0,Standing (STD),United States of America,United States of America,Domestic,166.0,Accident , repairable-damage
+27-AUG-2016,Boeing 737,Southwest Airlines,"near Biloxi, MS",Substantial,0,En route (ENR),United States of America,United States of America,Domestic,104.0,Accident , repairable-damage
+28-OCT-2016,Boeing 767,American Airlines,Chicago-O'Ha...,Substantial,0,Takeoff (TOF),United States of America,United States of America,Domestic,170.0,Accident , hull-loss
+29-NOV-2016,Boeing 737,Caribbean Airlines,Georgetown-C...,Substantial,0,Taxi (TXI),United States of America,Guyana,International,187.0,Accident , repairable-damage
+10-DEC-2016,Boeing 737,"Jordan Aviation, op.for Safi Airways",Kabul-Hamid ...,Substantial,0,Landing (LDG),Afghanistan,Afghanistan,Domestic,173.0,Accident , repairable-damage
+27-DEC-2016,Boeing 737,Jet Airways,Goa-Dabolim ...,Substantial,0,Takeoff (TOF),India,India,Domestic,161.0,Accident , repairable-damage
+24-MAR-2015,Airbus A320,Germanwings,Prads-Haute-...,Destroyed,150,En route (ENR),Spain,Germany,International,150.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+29-MAR-2015,Airbus A320,Air Canada,Halifax-Stan...,Substantial,0,Landing (LDG),Canada,Canada,Domestic,138.0,Accident , hull-loss
+01-APR-2015,Boeing 737,Ryanair,Dublin Airpo...,Minor,0,Taxi (TXI),Ireland,Croatia,International,176.0,Accident , repairable-damage
+01-APR-2015,Boeing 737,Ryanair,Dublin Airpo...,Minor,0,Taxi (TXI),Ireland,United Kingdom,International,94.0,Accident , repairable-damage
+13-APR-2015,Boeing 737,Jet Airways,Khajuraho Ai...,Substantial,0,Landing (LDG),India,India,Domestic,67.0,Accident , repairable-damage
+14-APR-2015,Airbus A320,Asiana Airlines,Hiroshima In...,Substantial,0,Landing (LDG),South Korea,Japan,International,82.0,Accident , hull-loss
+19-JUL-2015,Airbus A321,British Airways,Glasgow Inte...,Substantial,0,Landing (LDG),United Kingdom,United Kingdom,Domestic,207.0,Accident , repairable-damage
+15-AUG-2015,Airbus A321,American Airlines,Charlotte-Do...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,159.0,Accident , repairable-damage
+05-SEP-2015,Boeing 737,Ceiba International,near Tambacounda,Minor,0,En route (ENR),Senegal,Benin,International,112.0,Accident , repairable-damage
+08-SEP-2015,Boeing 777,British Airways,Las Vegas-Mc...,Substantial,0,Takeoff (TOF),United States of America,United Kingdom,International,170.0,Accident , repairable-damage
+15-SEP-2015,Boeing 777,Qatar Airways,Miami Intern...,Substantial,0,Takeoff (TOF),United States of America,Qatar,International,279.0,Incident , repairable-damage
+19-SEP-2015,Airbus A321,Air Berlin,Düsseldorf I...,Substantial,0,Takeoff (TOF),Germany,Greece,International,175.0,Accident , repairable-damage
+23-OCT-2015,Boeing 737,Peruvian Airlines,Cuzco-Velazc...,Substantial,0,Landing (LDG),Peru,Peru,Domestic,139.0,Accident , hull-loss
+26-OCT-2015,Boeing 737,"British Airways, opb Comair",Johannesburg...,Substantial,0,Landing (LDG),South Africa,South Africa,Domestic,100.0,Accident , hull-loss
+29-OCT-2015,Boeing 767,Dynamic International Airways,Fort Lauderd...,Substantial,0,Taxi (TXI),United States of America,Venezuela,International,101.0,Accident , hull-loss
+31-OCT-2015,Airbus A321,Metrojet,"near Hasna, North...",Destroyed,224,En route (ENR),Egypt,Russia,International,224.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+03-NOV-2015,Boeing 737,Shaheen Air,Lahore-Allam...,Substantial,0,Landing (LDG),Pakistan,Pakistan,Domestic,121.0,Accident , hull-loss
+22-NOV-2015,Boeing 737,Avia Traffic Company,Osh Airport ...,Substantial,0,Landing (LDG),Kyrgyzstan,Kyrgyzstan,Domestic,153.0,Accident , hull-loss
+26-NOV-2015,Boeing 737,Magnicharters,Mexico City-...,Substantial,0,Landing (LDG),Mexico,Mexico,Domestic,144.0,Accident , hull-loss
+15-DEC-2015,Boeing 737,Southwest Airlines,Nashville In...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,138.0,Accident , hull-loss
+03-JAN-2014,Boeing 737,Southwest Airlines,Las Vegas-Mc...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,180.0,Accident , repairable-damage
+05-JAN-2014,Boeing 767,"Orient Thai Airlines, op.for Saudi Arabian",Madinah-Moha...,Substantial,0,Landing (LDG),Iran,Saudi Arabia,International,315.0,Accident , repairable-damage
+05-JAN-2014,Airbus A320,Air India,Jaipur Inter...,Substantial,0,Landing (LDG),India,India,Domestic,179.0,Accident , hull-loss
+01-FEB-2014,Boeing 737,Lion Air,Surabaya-Jua...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,222.0,Accident , repairable-damage
+02-FEB-2014,Airbus A320,East Air,Kulob Airpor...,Substantial,0,Landing (LDG),Russia,Tajikistan,International,192.0,Accident , repairable-damage
+17-FEB-2014,Boeing 737,Jet2,Funchal Airp...,Substantial,0,Landing (LDG),United Kingdom,Portugal,International,182.0,Accident , repairable-damage
+22-FEB-2014,Boeing 737,Travel Service Airlines,Terceira-Laj...,Substantial,0,Landing (LDG),Czech Republic,Portugal,International,170.0,Accident , repairable-damage
+27-FEB-2014,Boeing 737,Canadian North,Winnipeg-Jam...,Substantial,0,Takeoff (TOF),Canada,Canada,Domestic,97.0,Accident , repairable-damage
+08-MAR-2014,Boeing 777,Malaysia Airlines,within Indian Ocean,Destroyed,239,En route (ENR),Malaysia,China,International,239.0,Accident , hull-loss
+13-MAR-2014,Airbus A320,US Airways,Philadelphia...,Substantial,0,Takeoff (TOF),United States of America,United States of America,Domestic,154.0,Accident , hull-loss
+08-MAY-2014,Boeing 737,Ariana Afghan Airlines,Kabul Airpor...,Substantial,0,Landing (LDG),India,Afghanistan,International,132.0,Accident , hull-loss
+20-JUN-2014,Boeing 767,Omni Air International,Kabul Airpor...,Substantial,0,Landing (LDG),Romania,Afghanistan,International,81.0,Accident , repairable-damage
+28-JUN-2014,Boeing 737,Ryanair,London-Stans...,Substantial,0,Pushback / towing (PBT),United Kingdom,Poland,International,184.0,Accident , repairable-damage
+28-JUN-2014,Boeing 737,Ryanair,London-Stans...,Minor,0,Taxi (TXI),Germany,United Kingdom,International,167.0,Accident , repairable-damage
+04-JUL-2014,Airbus A320,Air VIA,Leipzig Airp...,Substantial,0,Landing (LDG),Bulgaria,Germany,International,155.0,Accident , repairable-damage
+17-JUL-2014,Boeing 777,Malaysia Airlines,Hrabove,Destroyed,298,En route (ENR),Netherlands,Malaysia,International,298.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+29-JUL-2014,Boeing 737,Ryanair,London-Stans...,Substantial,0,Landing (LDG),Czech Republic,United Kingdom,International,177.0,Accident , repairable-damage
+07-OCT-2014,Boeing 737,Ryanair,Dublin Airpo...,Minor,0,Taxi (TXI),Ireland,United Kingdom,International,94.0,Accident , repairable-damage
+07-OCT-2014,Boeing 737,Ryanair,Dublin Airpo...,Minor,0,Taxi (TXI),Ireland,Belgium,International,108.0,Accident , repairable-damage
+06-NOV-2014,Boeing 737,SpiceJet,Surat Gujara...,Substantial,0,Takeoff (TOF),India,India,Domestic,157.0,Accident , repairable-damage
+24-NOV-2014,Boeing 737,SAS,Stavanger-So...,Substantial,0,Landing (LDG),Norway,Norway,Domestic,115.0,Accident , repairable-damage
+12-DEC-2014,Boeing 737,Southwest Airlines,Baltimore/Wa...,Substantial,0,Approach (APR),United States of America,United States of America,Domestic,145.0,Accident , repairable-damage
+28-DEC-2014,Airbus A320,Indonesia AirAsia,Karimata Strait,Destroyed,162,En route (ENR),Indonesia,Singapore,International,162.0,Accident , hull-loss
+06-FEB-2013,Airbus A320,Tunis Air,Tunis-Cartha...,Substantial,0,Landing (LDG),Morocco,Tunisia,International,83.0,Accident , hull-loss
+11-FEB-2013,Boeing 737,PIA,Muscat-Seeb ...,Substantial,0,Landing (LDG),Pakistan,Oman,International,108.0,Accident , hull-loss
+29-MAR-2013,Airbus A321,"Hermes Airlines, op.for Air Méditerranée",Lyon Saint-E...,Minor,0,Landing (LDG),Morocco,France,International,181.0,Accident , repairable-damage
+05-APR-2013,Airbus A321,US Airways,Las Vegas-Mc...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,192.0,Accident , repairable-damage
+13-APR-2013,Boeing 737,Lion Air,Denpasar-Ngu...,Substantial,0,Approach (APR),Indonesia,Indonesia,Domestic,108.0,Accident , hull-loss
+16-APR-2013,Boeing 767,Aeroméxico,Madrid-Baraj...,Substantial,0,Takeoff (TOF),Spain,Mexico,International,163.0,Accident , hull-loss
+16-APR-2013,Airbus A321,Asiana Airlines,Seoul-Incheo...,Substantial,0,Landing (LDG),China,South Korea,International,139.0,Accident , repairable-damage
+17-APR-2013,Boeing 737,Buraq Air,near Tripoli Inte...,Minor,0,Approach (APR),Libya,Libya,Domestic,155.0,"Criminal occurrence (sabotage, shoot down) ", repairable-damage
+24-MAY-2013,Airbus A319,British Airways,London-Heath...,Substantial,0,Takeoff (TOF),United Kingdom,Norway,International,80.0,Accident , repairable-damage
+24-MAY-2013,Airbus A320,Air VIA,Varna Airpot...,Substantial,0,Landing (LDG),Germany,Bulgaria,International,178.0,Accident , repairable-damage
+02-JUN-2013,Airbus A320,Cebu Pacific Air,Davao City-F...,Substantial,0,Landing (LDG),Philippines,Philippines,Domestic,171.0,Accident , repairable-damage
+08-JUN-2013,Airbus A320,Wizz Air,Roma-Fiumici...,Substantial,0,Landing (LDG),Romania,Italy,International,171.0,Accident , repairable-damage
+13-JUN-2013,Airbus A319,Cebu Pacific Air,Manila-Ninoy...,Minor,0,Landing (LDG),Philippines,Philippines,Domestic,101.0,Accident , repairable-damage
+06-JUL-2013,Boeing 777,Asiana Airlines,San Francisc...,Destroyed,3,Landing (LDG),South Korea,United States of America,International,307.0,Accident , hull-loss
+22-JUL-2013,Boeing 737,Southwest Airlines,New York-La ...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,150.0,Accident , hull-loss
+10-AUG-2013,Boeing 737,Virgin Australia Airlines,Melbourne-Tu...,Substantial,0,Pushback / towing (PBT),Australia,Australia,Domestic,174.0,Accident , repairable-damage
+29-SEP-2013,Airbus A320,Alitalia,Roma-Fiumici...,Substantial,0,Landing (LDG),Spain,Italy,International,157.0,Accident , repairable-damage
+07-NOV-2013,Boeing 737,Aerolineas Argentinas,Buenos Aires...,Minor,0,Taxi (TXI),Argentina,Argentina,Domestic,88.0,Accident , repairable-damage
+17-NOV-2013,Boeing 737,Tatarstan,Kazan Intern...,Destroyed,50,Approach (APR),Russia,Russia,Domestic,50.0,Accident , hull-loss
+03-DEC-2013,Airbus A320,Swiss,London-Heath...,Substantial,0,Landing (LDG),Switzerland,United Kingdom,International,64.0,Accident , repairable-damage
+05-DEC-2013,Boeing 767,Delta Air Lines,Madrid-Baraj...,Minor,0,Landing (LDG),Spain,United States of America,International,203.0,Accident , repairable-damage
+05-FEB-2012,Airbus A320,All Nippon,Sendai Airpo...,Substantial,0,Landing (LDG),Japan,Japan,Domestic,166.0,Accident , hull-loss
+13-FEB-2012,Airbus A320,Airphil Express,Kalibo Airpo...,Minor,0,Landing (LDG),Philippines,Philippines,Domestic,142.0,Accident , repairable-damage
+14-FEB-2012,Airbus A319,easyJet,London-Luton...,Minor,0,Landing (LDG),Portugal,United Kingdom,International,148.0,Accident , repairable-damage
+29-MAR-2012,Boeing 737,Norwegian Air Shuttle,Oslo-Garderm...,Substantial,0,Taxi (TXI),Norway,Norway,Domestic,141.0,Accident , repairable-damage
+29-MAR-2012,Boeing 737,SAS,Oslo-Garderm...,Substantial,0,Taxi (TXI),Norway,Norway,Domestic,170.0,Accident , repairable-damage
+31-MAR-2012,Boeing 777,JAL,Tokyo Haneda...,Substantial,0,Approach (APR),China,Japan,International,308.0,Accident , repairable-damage
+14-APR-2012,Boeing 737,Titan Airways,Chambéry Air...,Substantial,0,Takeoff (TOF),France,United Kingdom,International,136.0,Accident , repairable-damage
+20-APR-2012,Boeing 737,Bhoja Airlines,near Islamabad-Be...,Destroyed,127,Approach (APR),Pakistan,Pakistan,Domestic,127.0,Accident , hull-loss
+22-APR-2012,Boeing 737,Shaheen Air,Karachi-Jinn...,Substantial,0,Landing (LDG),Pakistan,Pakistan,Domestic,178.0,Accident , repairable-damage
+01-JUN-2012,Boeing 737,Sriwijaya Air,Pontianak-Su...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,163.0,Accident , hull-loss
+20-JUN-2012,Boeing 767,All Nippon,Tokyo-Narita...,Substantial,0,Landing (LDG),China,Japan,International,193.0,Accident , repairable-damage
+18-JUL-2012,Boeing 737,Sky Airline,La Serena-La...,Substantial,0,Landing (LDG),Chile,Chile,Domestic,121.0,Accident , repairable-damage
+14-OCT-2012,Boeing 737,Corendon Airlines,Antalya Airp...,Substantial,0,Pushback / towing (PBT),Turkey,Norway,International,196.0,Accident , hull-loss
+03-JAN-2011,Boeing 737,American Airlines,Los Angeles ...,Substantial,0,Takeoff (TOF),United States of America,Canada,International,165.0,Accident , repairable-damage
+10-JAN-2011,Airbus A320,AirAsia,Kuching Airp...,Substantial,0,Landing (LDG),Malaysia,Malaysia,Domestic,129.0,Accident , repairable-damage
+10-JAN-2011,Boeing 737,Safair,Hoedspruit A...,Substantial,0,Taxi (TXI),South Africa,South Africa,Domestic,3.0,Accident , hull-loss
+01-APR-2011,Boeing 737,Southwest Airlines,Yuma Interna...,Minor,0,En route (ENR),United States of America,United States of America,Domestic,122.0,Accident , repairable-damage
+14-JUL-2011,Boeing 767,Delta Air Lines,Boston-Logan...,Minor,0,Taxi (TXI),United States of America,Netherlands,International,214.0,Accident , repairable-damage
+29-JUL-2011,Boeing 777,EgyptAir,Cairo Intern...,Damaged beyond repair,0,Standing (STD),Egypt,Saudi Arabia,International,317.0,Accident , hull-loss
+30-JUL-2011,Boeing 737,Caribbean Airlines,Georgetown-C...,Destroyed,0,Landing (LDG),Trinidad and Tobago,Guyana,International,163.0,Accident , hull-loss
+20-AUG-2011,Boeing 737,First Air,near Resolute Air...,Destroyed,12,Approach (APR),Canada,Canada,Domestic,15.0,Accident , hull-loss
+29-AUG-2011,Airbus A320,Gulf Air,Cochin Inter...,Minor,0,Landing (LDG),Bahrain,India,International,143.0,Accident , repairable-damage
+10-OCT-2011,Boeing 737,Sky Airlines,Antalya Airp...,Substantial,0,Landing (LDG),Germany,Turkey,International,162.0,Accident , hull-loss
+01-NOV-2011,Boeing 767,LOT,Warszawa-Fré...,Substantial,0,Landing (LDG),United States of America,Poland,International,231.0,Accident , hull-loss
+10-NOV-2011,Airbus A320,Delta Air Lines,near Minneapolis-...,Substantial,0,Initial climb (ICL),United States of America,United States of America,Domestic,150.0,Accident , repairable-damage
+08-DEC-2011,Boeing 737,Delta Air Lines,Atlanta Hart...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,70.0,Accident , repairable-damage
+13-DEC-2011,Airbus A319,Air France,Paris-Charle...,Substantial,0,Landing (LDG),Germany,France,International,119.0,Accident , repairable-damage
+20-DEC-2011,Boeing 737,Sriwijaya Air,Yogyakarta-A...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,137.0,Accident , hull-loss
+10-JAN-2010,Airbus A319,United Airlines,Newark-Liber...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,53.0,Accident , repairable-damage
+25-JAN-2010,Boeing 737,Ethiopian Airlines,near Beirut Inter...,Destroyed,90,Initial climb (ICL),Lebanon,Ethiopia,International,90.0,Accident , hull-loss
+01-MAR-2010,Boeing 737,Air Tanzania,Mwanza Airpo...,Damaged beyond repair,0,Landing (LDG),Tanzania,Tanzania,Domestic,52.0,Accident , hull-loss
+13-APR-2010,Boeing 737,Merpati Nusantara,Manokwari-Re...,Damaged beyond repair,0,Landing (LDG),Indonesia,Indonesia,Domestic,110.0,Accident , hull-loss
+22-MAY-2010,Boeing 737,Air India Express,Mangalore-Ba...,Destroyed,158,Landing (LDG),United Arab Emirates,India,International,166.0,Accident , hull-loss
+06-JUN-2010,Boeing 737,RAM,Amsterdam-Sc...,Substantial,0,Takeoff (TOF),Netherlands,Morocco,International,162.0,Accident , repairable-damage
+18-JUN-2010,Airbus A321,Lufthansa,Praha-Ruzyne...,Substantial,0,Taxi (TXI),Czech Republic,Germany,International,151.0,Accident , repairable-damage
+18-JUN-2010,Boeing 737,SunExpress,Praha-Ruzyne...,Substantial,0,Taxi (TXI),Czech Republic,Turkey,International,185.0,Accident , repairable-damage
+19-JUN-2010,Boeing 737,Delta Air Lines,New York-Joh...,Substantial,0,Standing (STD),United States of America,United States of America,Domestic,5.0,Accident , repairable-damage
+28-JUL-2010,Airbus A321,Airblue,near Islamabad-Be...,Destroyed,152,Approach (APR),Pakistan,Pakistan,Domestic,152.0,Accident , hull-loss
+28-JUL-2010,Boeing 737,"Mauritania Airways, lsf Tunis Air",Conakry Inte...,Substantial,0,Landing (LDG),Senegal,Guinea,International,97.0,Accident , hull-loss
+12-AUG-2010,Airbus A319,Azerbaijan Airlines,Istanbul-Ata...,Substantial,0,Landing (LDG),Azerbaijan,Turkey,International,127.0,Accident , repairable-damage
+16-AUG-2010,Boeing 737,AIRES Colombia,San Andres I...,Destroyed,2,Landing (LDG),Colombia,Colombia,Domestic,131.0,Accident , hull-loss
+24-SEP-2010,Airbus A319,Windjet,Palermo-Punt...,Damaged beyond repair,0,Landing (LDG),Italy,Italy,Domestic,129.0,Accident , hull-loss
+03-OCT-2010,Boeing 767,Thomson Airways,Bristol Airp...,Substantial,0,Landing (LDG),Mexico,United Kingdom,International,270.0,Accident , repairable-damage
+02-NOV-2010,Boeing 737,Lion Air,Pontianak-Su...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,175.0,Accident , hull-loss
+15-JAN-2009,Airbus A320,US Airways,"near Weehawken, N...",Damaged beyond repair,0,Initial climb (ICL),United States of America,United States of America,Domestic,155.0,Accident , hull-loss
+09-FEB-2009,Airbus A321,Air Méditerranée,Paris-Charle...,Minor,0,Landing (LDG),Senegal,France,International,229.0,Accident , repairable-damage
+25-FEB-2009,Boeing 737,THY,near Amsterdam-Sc...,Destroyed,9,Approach (APR),Turkey,Netherlands,International,135.0,Accident , hull-loss
+20-APR-2009,Boeing 767,RAM,New York-Joh...,Substantial,0,Landing (LDG),Morocco,United States of America,International,220.0,Accident , repairable-damage
+27-APR-2009,Boeing 737,Magnicharters,Guadalajara-...,Substantial,0,Landing (LDG),Mexico,Mexico,Domestic,116.0,Accident , hull-loss
+04-MAY-2009,Airbus A320,Northwest Airlines,Denver Inter...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,154.0,Accident , repairable-damage
+13-JUL-2009,Boeing 737,Southwest Airlines,"near Charleston, WV",Substantial,0,En route (ENR),United States of America,United States of America,Domestic,131.0,Accident , repairable-damage
+10-AUG-2009,Boeing 737,All Nippon,Tokyo-Haneda...,Substantial,0,Landing (LDG),Japan,Japan,Domestic,153.0,Accident , repairable-damage
+01-SEP-2009,Airbus A320,"Air Vallée, lsf BH Air",Verona Airpo...,Substantial,0,Takeoff (TOF),Italy,Italy,Domestic,94.0,Accident , repairable-damage
+15-SEP-2009,Cessna 208 Caravan,North American Flight Services,"Sheffield, MA",Destroyed,0,En route (ENR),United States of America,United States of America,Domestic,6.0,Accident , hull-loss
+28-OCT-2009,Airbus A321,Asiana Airlines,Osaka-Kansai...,Substantial,0,Landing (LDG),South Korea,Japan,International,147.0,Accident , repairable-damage
+21-DEC-2009,Boeing 737,Merpati Nusantara,Makassar-Sul...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,108.0,Accident , hull-loss
+22-DEC-2009,Boeing 737,American Airlines,Kingston-Nor...,Destroyed,0,Landing (LDG),United States of America,Jamaica,International,154.0,Accident , hull-loss
+09-JAN-2008,Airbus A319,Northwest Airlines,Detroit-Metr...,Substantial,0,Approach (APR),United States of America,United States of America,Domestic,73.0,Accident , repairable-damage
+17-JAN-2008,Boeing 777,British Airways,London-Heath...,Substantial,0,Landing (LDG),China,United Kingdom,International,152.0,Accident , hull-loss
+28-JAN-2008,Boeing 737,Merpati Nusantara,Merauke-Mopa...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,147.0,Accident , repairable-damage
+17-FEB-2008,Airbus A319,US Airways,Washington-R...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,51.0,Accident , repairable-damage
+10-MAR-2008,Boeing 737,AdamAir,Batam-Hang N...,Damaged beyond repair,0,Landing (LDG),Indonesia,Indonesia,Domestic,177.0,Accident , hull-loss
+14-MAR-2008,Boeing 737,Air Algérie,Sétif-Ain Ar...,Substantial,0,Landing (LDG),France,Algeria,International,120.0,Accident , repairable-damage
+30-MAY-2008,Airbus A320,TACA,Tegucigalpa-...,Damaged beyond repair,5,Landing (LDG),El Salvador,Honduras,International,124.0,Accident , hull-loss
+14-JUL-2008,Boeing 737,Chanchangi Airlines,Port Harcour...,Substantial,0,Landing (LDG),Nigeria,Nigeria,Domestic,47.0,Accident , hull-loss
+18-JUL-2008,Airbus A321,Thomas Cook Airlines,Manchester A...,Substantial,0,Landing (LDG),Spain,United Kingdom,International,228.0,Accident , repairable-damage
+23-JUL-2008,Boeing 737,Garuda,Banjarmasin-...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,121.0,Accident , repairable-damage
+28-JUL-2008,Airbus A321,Monarch Airlines,Manchester A...,Substantial,0,Landing (LDG),Spain,United Kingdom,International,167.0,Accident , repairable-damage
+24-AUG-2008,Boeing 737,"Itek Air, opf Iran Aseman Airlines",near Bishkek-Mana...,Destroyed,65,Approach (APR),Kyrgyzstan,Iran,International,90.0,Accident , hull-loss
+24-AUG-2008,Cessna 208 Caravan,Aéreo Ruta Maya,"near La Puente, C...",Destroyed,11,En route (ENR),Guatemala,Guatemala,Domestic,14.0,Accident , hull-loss
+27-AUG-2008,Boeing 737,Sriwijaya Air,Jambi-Sultan...,Substantial,1,Landing (LDG),Indonesia,Indonesia,Domestic,130.0,Accident , hull-loss
+14-SEP-2008,Boeing 737,Aeroflot-Nord,near Perm Airport...,Destroyed,88,Approach (APR),Russia,Russia,Domestic,88.0,Accident , hull-loss
+01-OCT-2008,Boeing 737,KD Avia,Kaliningrad-...,Substantial,0,Landing (LDG),Spain,Russia,International,144.0,Accident , hull-loss
+16-OCT-2008,Boeing 737,Rutaca,Caracas-Simó...,Substantial,0,Landing (LDG),Venezuela,Venezuela,Domestic,54.0,Accident , hull-loss
+20-OCT-2008,Airbus A320,United Airlines,Phoenix-Sky ...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,163.0,Accident , repairable-damage
+10-NOV-2008,Boeing 737,Ryanair,Roma-Ciampin...,Substantial,0,Landing (LDG),Germany,Italy,International,172.0,Accident , hull-loss
+20-DEC-2008,Boeing 737,Continental Air Lines,Denver Inter...,Destroyed,0,Takeoff (TOF),United States of America,United States of America,Domestic,115.0,Accident , hull-loss
+01-JAN-2007,Boeing 737,AdamAir,near Pambauang,Destroyed,102,En route (ENR),Indonesia,Indonesia,Domestic,102.0,Accident , hull-loss
+21-FEB-2007,Boeing 737,AdamAir,Surabaya-Jua...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,155.0,Accident , hull-loss
+07-MAR-2007,Boeing 737,Garuda,Yogyakarta-A...,Destroyed,21,Landing (LDG),Indonesia,Indonesia,Domestic,140.0,Accident , hull-loss
+05-MAY-2007,Boeing 737,Kenya Airways,near Douala Airpo...,Destroyed,114,En route (ENR),Cameroon,Kenya,International,114.0,Accident , hull-loss
+25-JUN-2007,Boeing 737,Ryanair,Venice-Trevi...,Minor,0,Landing (LDG),Spain,Italy,International,180.0,Accident , repairable-damage
+28-JUN-2007,Boeing 737,TAAG,M'Banza Cong...,Destroyed,6,Landing (LDG),Angola,Angola,Domestic,78.0,Accident , hull-loss
+17-JUL-2007,Airbus A320,TAM Brasil,São Paulo-Co...,Destroyed,199,Landing (LDG),Brazil,Brazil,Domestic,187.0,Accident , hull-loss
+27-JUL-2007,Boeing 777,British Airways,London-Heath...,Minor,0,Pushback / towing (PBT),United Kingdom,United States of America,International,227.0,Accident , repairable-damage
+27-JUL-2007,Airbus A321,British Airways,London-Heath...,Minor,0,Standing (STD),Switzerland,United Kingdom,International,111.0,Accident , repairable-damage
+20-AUG-2007,Boeing 737,China Airlines,Okinawa-Naha...,Destroyed,0,Landing (LDG),Taiwan,Japan,International,165.0,Accident , hull-loss
+14-SEP-2007,Boeing 737,Magnicharters,Guadalajara-...,Damaged beyond repair,0,Landing (LDG),Mexico,Mexico,Domestic,109.0,Accident , hull-loss
+26-OCT-2007,Airbus A320,Philippine Air Lines,Butuan Airpo...,Substantial,0,Landing (LDG),Philippines,Philippines,Domestic,154.0,Accident , hull-loss
+28-OCT-2007,Boeing 737,Air Europa,Katowice-Pyr...,Substantial,0,Approach (APR),Lebanon,Poland,International,122.0,Accident , repairable-damage
+01-NOV-2007,Boeing 737,Mandala Airlines,Malang-Abdul...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,94.0,Accident , hull-loss
+07-NOV-2007,Boeing 737,Nationwide Airlines,Cape Town In...,Minor,0,Takeoff (TOF),South Africa,South Africa,Domestic,112.0,Accident , hull-loss
+30-DEC-2007,Boeing 737,Tarom,Bucharest-Ot...,Substantial,0,Takeoff (TOF),Romania,Egypt,International,123.0,Accident , hull-loss
+02-FEB-2006,Boeing 767,Qantas,Melbourne-Tu...,Substantial,0,Taxi (TXI),Australia,Australia,Domestic,166.0,Accident , repairable-damage
+18-MAR-2006,Boeing 737,Air Algérie,Sevilla Airp...,Substantial,0,Landing (LDG),Algeria,Spain,International,107.0,Accident , repairable-damage
+13-APR-2006,Cessna 208 Caravan,MAF,Haydom,Substantial,0,Landing (LDG),Tanzania,Tanzania,Domestic,9.0,Accident , repairable-damage
+03-MAY-2006,Airbus A320,Armavia,near Adler/Sochi ...,Destroyed,113,Approach (APR),Armenia,Russia,International,113.0,Accident , hull-loss
+09-JUN-2006,Airbus A321,Asiana Airlines,near Anyang VOR,Substantial,0,En route (ENR),South Korea,South Korea,Domestic,206.0,Accident , repairable-damage
+15-JUN-2006,Boeing 737,Air One,Catania-Font...,Minor,0,Taxi (TXI),Italy,Italy,Domestic,104.0,Accident , repairable-damage
+18-JUL-2006,Airbus A321,Onur Air,Rotterdam Ai...,Substantial,0,Landing (LDG),Turkey,Netherlands,International,153.0,Accident , repairable-damage
+08-SEP-2006,Airbus A319,Air Canada,New York-La ...,Minor,0,Taxi (TXI),United States of America,Canada,International,109.0,Accident , repairable-damage
+29-SEP-2006,Boeing 737,Gol,near Peixoto Azev...,Destroyed,154,En route (ENR),Brazil,Brazil,Domestic,154.0,Accident , hull-loss
+03-OCT-2006,Boeing 737,Mandala Airlines,Tarakan-Juwa...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,110.0,Accident , hull-loss
+29-OCT-2006,Boeing 737,ADC Airlines,Abuja Intern...,Destroyed,96,Initial climb (ICL),Nigeria,Nigeria,Domestic,105.0,Accident , hull-loss
+24-DEC-2006,Boeing 737,Lion Air,Ujung Pandan...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,164.0,Accident , hull-loss
+26-DEC-2006,Boeing 737,Southwest Airlines,San Diego In...,Substantial,0,Pushback / towing (PBT),United States of America,United States of America,Domestic,131.0,Accident , repairable-damage
+26-DEC-2006,Boeing 737,Southwest Airlines,San Diego In...,Minor,0,Taxi (TXI),United States of America,United States of America,Domestic,77.0,Accident , repairable-damage
+03-FEB-2005,Boeing 737,"Phoenix Aviation, op.for Kam Air",near Kabul Airpor...,Destroyed,105,En route (ENR),Afghanistan,Afghanistan,Domestic,105.0,Accident , hull-loss
+10-MAY-2005,Airbus A319,Northwest Airlines,Minneapolis-...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,43.0,Accident , repairable-damage
+18-MAY-2005,Airbus A320,"Jordan Aviation, op.for LTE International Airways",Leeds/Bradfo...,Minor,0,Landing (LDG),Spain,United Kingdom,International,178.0,Accident , repairable-damage
+22-MAY-2005,Boeing 767,Skyservice Airlines,Punta Cana A...,Substantial,0,Landing (LDG),Canada,Dominican Republic,International,318.0,Accident , repairable-damage
+28-JUN-2005,Cessna 208 Caravan,Air Serv International,Matemo Airport,Damaged beyond repair,0,Landing (LDG),Mozambique,Mozambique,Domestic,11.0,Accident , hull-loss
+14-AUG-2005,Boeing 737,Helios Airways,near Grammatikos,Destroyed,121,En route (ENR),Cyprus,Greece,International,121.0,Accident , hull-loss
+23-AUG-2005,Boeing 737,TANS,near Pucallpa-Cap...,Destroyed,40,Approach (APR),Peru,Peru,Domestic,98.0,Accident , hull-loss
+05-SEP-2005,Boeing 737,Mandala Airlines,Medan-Poloni...,Destroyed,149,Initial climb (ICL),Indonesia,Indonesia,Domestic,117.0,Accident , hull-loss
+18-SEP-2005,Airbus A321,Spirit Airlines,Fort Lauderd...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,197.0,Accident , repairable-damage
+09-OCT-2005,Boeing 737,Sahara Airlines,Mumbai-Chhat...,Damaged beyond repair,0,Landing (LDG),India,India,Domestic,117.0,Accident , hull-loss
+22-OCT-2005,Boeing 737,Bellview Airlines,Lisa Village...,Destroyed,117,En route (ENR),Nigeria,Nigeria,Domestic,117.0,Accident , hull-loss
+08-DEC-2005,Boeing 737,Southwest Airlines,Chicago-Midw...,Substantial,1,Landing (LDG),United States of America,United States of America,Domestic,103.0,Accident , repairable-damage
+03-JAN-2004,Boeing 737,Flash Airlines,near Sharm el Sheikh,Destroyed,148,En route (ENR),Egypt,Egypt,Domestic,148.0,Accident , hull-loss
+21-FEB-2004,Boeing 737,bmibaby,Cardiff-Wale...,Substantial,0,Landing (LDG),Spain,United Kingdom,International,120.0,Accident , repairable-damage
+25-FEB-2004,Boeing 737,First Air,Edmonton Int...,Minor,0,Landing (LDG),Canada,Canada,Domestic,35.0,Accident , repairable-damage
+23-MAR-2004,Airbus A321,Aer Lingus,London-Heath...,Minor,0,Taxi (TXI),United Kingdom,Ireland,International,194.0,Accident , repairable-damage
+27-APR-2004,Boeing 737,AeroSvit Airlines,Moskva-Shere...,Substantial,0,Takeoff (TOF),Russia,Ukraine,International,108.0,Accident , repairable-damage
+11-AUG-2004,Boeing 737,Air Guinee Express,Freetown-Lun...,Damaged beyond repair,0,Takeoff (TOF),Sierra Leone,Guinea,International,127.0,Accident , hull-loss
+18-OCT-2004,Airbus A320,TransAsia Airways,Taipei-Songs...,Substantial,0,Landing (LDG),Taiwan,Taiwan,Domestic,106.0,Accident , repairable-damage
+28-NOV-2004,Boeing 737,KLM,Barcelona Ai...,Damaged beyond repair,0,Landing (LDG),Netherlands,Spain,International,146.0,Accident , hull-loss
+23-JAN-2003,Boeing 737,Star Air,Jakarta-Soek...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,123.0,Accident , repairable-damage
+26-JAN-2003,Boeing 737,VASP,Rio Branco-P...,Damaged beyond repair,0,Landing (LDG),Brazil,Brazil,Domestic,93.0,Accident , hull-loss
+06-MAR-2003,Boeing 737,Air Algérie,Tamanrasset ...,Destroyed,102,Initial climb (ICL),Algeria,Algeria,Domestic,103.0,Accident , hull-loss
+21-MAR-2003,Airbus A321,TransAsia Airways,Tainan Airpo...,Substantial,0,Landing (LDG),Taiwan,Taiwan,Domestic,175.0,Accident , hull-loss
+24-MAY-2003,Boeing 737,Southwest Airlines,Amarillo Int...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,68.0,Accident , repairable-damage
+16-JUN-2003,Airbus A320,"Skyservice Airlines, op.for MyTravel",Bristol Airp...,Substantial,0,Landing (LDG),Greece,United Kingdom,International,185.0,Accident , repairable-damage
+08-JUL-2003,Boeing 737,Sudan Airways,near Port Sudan,Destroyed,116,Approach (APR),Sudan,Sudan,Domestic,117.0,Accident , hull-loss
+15-AUG-2003,Boeing 737,easyJet Switzerland,near Oyonnax,Substantial,0,En route (ENR),Switzerland,United Kingdom,International,131.0,Accident , repairable-damage
+06-NOV-2003,Airbus A320,TAM Brasil,Florianópoli...,Substantial,0,Landing (LDG),Brazil,Brazil,Domestic,128.0,Accident , repairable-damage
+13-DEC-2003,Boeing 737,Aero Continente,Lima-J Chave...,Damaged beyond repair,0,Landing (LDG),Venezuela,Peru,International,100.0,Accident , hull-loss
+19-DEC-2003,Boeing 737,Air Gabon,Libreville A...,Damaged beyond repair,0,Landing (LDG),Gabon,Gabon,Domestic,131.0,Accident , hull-loss
+20-DEC-2003,Boeing 737,Gol,Navegantes A...,Substantial,0,Landing (LDG),Brazil,Brazil,Domestic,149.0,Accident , repairable-damage
+22-DEC-2003,Boeing 737,easyJet,Amsterdam-Sc...,Substantial,0,Taxi (TXI),Netherlands,United Kingdom,International,103.0,Accident , repairable-damage
+14-JAN-2002,Boeing 737,Lion Air,Pekanbaru-Su...,Damaged beyond repair,0,Takeoff (TOF),Indonesia,Indonesia,Domestic,103.0,Accident , hull-loss
+16-JAN-2002,Boeing 737,Garuda,near Yokyakarta,Damaged beyond repair,1,Approach (APR),Indonesia,Indonesia,Domestic,60.0,Accident , hull-loss
+21-JAN-2002,Airbus A321,All Nippon,Hakodate Air...,Substantial,0,Approach (APR),Japan,Japan,Domestic,93.0,Accident , repairable-damage
+15-APR-2002,Boeing 767,Air China,near Pusan-Kimhae...,Destroyed,129,Approach (APR),China,South Korea,International,166.0,Accident , hull-loss
+07-MAY-2002,Boeing 737,EgyptAir,near Tunis-Cartha...,Destroyed,14,Approach (APR),Egypt,Tunisia,International,62.0,Accident , hull-loss
+13-MAY-2002,Boeing 767,Air Canada,Toronto-Pear...,Substantial,0,Approach (APR),Canada,Canada,Domestic,185.0,Accident , repairable-damage
+28-AUG-2002,Airbus A320,America West,Phoenix-Sky ...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,159.0,Accident , hull-loss
+08-DEC-2002,Boeing 767,Air New Zealand,"near Brisbane, QLD",Substantial,0,En route (ENR),Australia,New Zealand,International,200.0,Accident , repairable-damage
+26-DEC-2002,Boeing 737,TAAG,near Windhoek,Minor,0,En route (ENR),Namibia,Angola,International,46.0,Accident , repairable-damage
+07-FEB-2001,Airbus A320,Iberia,Bilbao Airpo...,Damaged beyond repair,0,Landing (LDG),Spain,Spain,Domestic,143.0,Accident , hull-loss
+03-MAR-2001,Boeing 737,Thai Airways International,Bangkok Inte...,Damaged beyond repair,1,Standing (STD),Thailand,Thailand,Domestic,8.0,Accident , hull-loss
+17-MAR-2001,Airbus A320,Northwest Airlines,Detroit-Metr...,Substantial,0,Takeoff (TOF),United States of America,United States of America,Domestic,151.0,Accident , repairable-damage
+22-MAY-2001,Boeing 737,First Air,Yellowknife ...,Damaged beyond repair,0,Landing (LDG),Canada,Canada,Domestic,104.0,Accident , hull-loss
+25-AUG-2001,Boeing 737,America West,Baltimore/Wa...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,59.0,Accident , repairable-damage
+05-SEP-2001,Boeing 777,British Airways,Denver Inter...,Substantial,1,Standing (STD),United Kingdom,United States of America,International,26.0,Accident , repairable-damage
+11-SEP-2001,Boeing 767,American Airlines,"New York, NY",Destroyed,1692,En route (ENR),United States of America,United States of America,Domestic,92.0,Hijacking , hull-loss
+11-SEP-2001,Boeing 767,United Airlines,"New York, NY",Destroyed,965,En route (ENR),United States of America,United States of America,Domestic,65.0,Hijacking , hull-loss
+16-SEP-2001,Boeing 737,Varig,Goiânia-Sant...,Damaged beyond repair,0,Landing (LDG),Brazil,Brazil,Domestic,67.0,Accident , hull-loss
+10-OCT-2001,Cessna 208 Caravan,PenAir,Dillingham M...,Destroyed,10,Initial climb (ICL),United States of America,United States of America,Domestic,10.0,Accident , hull-loss
+16-NOV-2001,Airbus A321,MEA,Cairo Intern...,Substantial,0,Landing (LDG),Lebanon,Egypt,International,88.0,Accident , repairable-damage
+17-DEC-2001,Boeing 737,Rio Sul,Belo Horizon...,Substantial,0,Landing (LDG),Brazil,Brazil,Domestic,108.0,Accident , repairable-damage
+20-JAN-2000,Airbus A320,Airtours Int.,London-Gatwi...,Substantial,0,Takeoff (TOF),United Kingdom,Spain,International,152.0,Accident , repairable-damage
+03-FEB-2000,Cessna 208 Caravan,Hummingbird Island Airways,Filitheyo Se...,Substantial,0,Landing (LDG),Maldives,Maldives,Domestic,9.0,Accident , repairable-damage
+22-FEB-2000,Boeing 767,EgyptAir,Harare Airpo...,Substantial,0,Landing (LDG),South Africa,Zimbabwe,International,93.0,Accident , repairable-damage
+27-FEB-2000,Boeing 737,Transbrasil,Porto Alegre...,Substantial,0,Landing (LDG),Brazil,Brazil,Domestic,117.0,Accident , repairable-damage
+05-MAR-2000,Boeing 737,Southwest Airlines,Burbank/Glen...,Destroyed,0,Landing (LDG),United States of America,United States of America,Domestic,142.0,Accident , hull-loss
+19-APR-2000,Boeing 737,Air Philippines,near Davao City-F...,Destroyed,131,Approach (APR),Philippines,Philippines,Domestic,131.0,Accident , hull-loss
+15-MAY-2000,Airbus A319,Air Canada,"near Goderich, ON",Minor,0,En route (ENR),Canada,United States of America,International,100.0,Accident , repairable-damage
+07-JUN-2000,Boeing 767,Varig,São Paulo-Gu...,Substantial,0,Takeoff (TOF),Brazil,Peru,International,191.0,Accident , repairable-damage
+12-JUN-2000,Airbus A320,America West,Las Vegas-Mc...,Substantial,0,Takeoff (TOF),United States of America,United States of America,Domestic,152.0,Accident , repairable-damage
+02-JUL-2000,Boeing 737,Pro Air,Orlando Inte...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,128.0,Accident , repairable-damage
+05-JUL-2000,Airbus A320,Royal Jordanian,Amman-Queen ...,Minor,1,En route (ENR),Jordan,Syria,International,96.0,Hijacking , repairable-damage
+17-JUL-2000,Boeing 737,Alliance Air,near Patna Airpor...,Damaged beyond repair,60,Approach (APR),India,India,Domestic,58.0,Accident , hull-loss
+23-AUG-2000,Airbus A320,Gulf Air,near Bahrain Inte...,Destroyed,143,Approach (APR),Egypt,Bahrain,International,143.0,Accident , hull-loss
+30-NOV-2000,Boeing 737,Futura,Shannon Airp...,Substantial,0,Landing (LDG),Spain,Ireland,International,208.0,Accident , repairable-damage
+12-FEB-1999,Airbus A320,Air France,Grenouillet,Minor,0,En route (ENR),France,France,Domestic,169.0,Accident , repairable-damage
+04-MAR-1999,Boeing 737,Air France,Biarritz Par...,Damaged beyond repair,0,Landing (LDG),France,France,Domestic,97.0,Accident , hull-loss
+09-JUN-1999,Boeing 737,China Southern,Zhanjiang Ai...,Damaged beyond repair,0,Landing (LDG),China,China,Domestic,90.0,Accident , hull-loss
+31-AUG-1999,Boeing 737,LAPA,Buenos Aires...,Destroyed,65,Takeoff (TOF),Argentina,Argentina,Domestic,100.0,Accident , hull-loss
+12-SEP-1999,Boeing 737,Continental Air Lines,West Palm Be...,Substantial,0,En route (ENR),United States of America,United States of America,Domestic,89.0,Accident , repairable-damage
+15-OCT-1999,Airbus A320,America West,Phoenix-Sky ...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,94.0,Accident , repairable-damage
+26-OCT-1999,Airbus A320,Indian Airlines,Yangon-Minga...,Substantial,0,Landing (LDG),India,Myanmar,International,92.0,Accident , repairable-damage
+31-OCT-1999,Boeing 767,EgyptAir,near Nantucket Is...,Destroyed,217,En route (ENR),United States of America,Egypt,International,217.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+22-MAR-1998,Airbus A320,Philippine Air Lines,Bacolod Airp...,Damaged beyond repair,3,Landing (LDG),Philippines,Philippines,Domestic,130.0,Accident , hull-loss
+05-MAY-1998,Boeing 737,"Peruvian AF, op.for Occidental Petroleum",near Andoas,Damaged beyond repair,75,Approach (APR),Peru,Peru,Domestic,88.0,Accident , hull-loss
+12-MAY-1998,Boeing 767,Ethiopian Airlines,Cairo Intern...,Substantial,0,Takeoff (TOF),Egypt,Ethiopia,International,141.0,Accident , repairable-damage
+12-MAY-1998,Airbus A320,EgyptAir,Cairo Intern...,Substantial,0,Taxi (TXI),Saudi Arabia,Egypt,International,54.0,Accident , repairable-damage
+14-MAY-1998,Cessna 208 Caravan,Baker Aviation,near Nome Airport...,Substantial,0,Approach (APR),United States of America,United States of America,Domestic,10.0,Accident , repairable-damage
+21-MAY-1998,Airbus A320,Air UK Leisure,Ibiza Airpor...,Substantial,0,Landing (LDG),United Kingdom,Spain,International,187.0,Accident , repairable-damage
+17-JUN-1998,Boeing 737,United Airlines,Denver Inter...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,70.0,Accident , repairable-damage
+19-JUL-1998,Boeing 737,Sudan Airways,Khartoum-Civ...,Damaged beyond repair,0,Landing (LDG),Sudan,Sudan,Domestic,100.0,Accident , hull-loss
+14-AUG-1998,Boeing 737,Alaska Airlines,Juneau Inter...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,145.0,Accident , repairable-damage
+16-SEP-1998,Boeing 737,Continental Air Lines,Guadalajara-...,Damaged beyond repair,0,Landing (LDG),United States of America,Mexico,International,108.0,Accident , hull-loss
+01-NOV-1998,Boeing 737,AirTran Airways,Atlanta-Will...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,105.0,Accident , hull-loss
+08-FEB-1997,Boeing 737,Transavia Airlines,Nürnberg,Substantial,0,En route (ENR),Austria,Netherlands,International,149.0,Accident , repairable-damage
+14-FEB-1997,Boeing 737,Varig,Carajás Airp...,Damaged beyond repair,1,Landing (LDG),Brazil,Brazil,Domestic,52.0,Accident , hull-loss
+10-MAR-1997,Airbus A320,Gulf Air,Abu Dhabi In...,Damaged beyond repair,0,Takeoff (TOF),United Arab Emirates,Bahrain,International,115.0,Accident , hull-loss
+11-APR-1997,Boeing 737,Sempati Air,Banjarmasin-...,Substantial,0,Takeoff (TOF),Indonesia,Indonesia,Domestic,70.0,Accident , repairable-damage
+08-MAY-1997,Boeing 737,China Southern,Shenzhen Air...,Destroyed,35,Landing (LDG),China,China,Domestic,74.0,Accident , hull-loss
+22-MAY-1997,Boeing 767,Alitalia,Newark Inter...,Substantial,0,Landing (LDG),Italy,United States of America,International,168.0,Accident , repairable-damage
+21-JUL-1997,Cessna 208 Caravan,PenAir,Naknek Airpo...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,3.0,Accident , repairable-damage
+03-AUG-1997,Boeing 737,Air Afrique,Douala Airpo...,Damaged beyond repair,0,Takeoff (TOF),Cameroon,Central African Republic,International,114.0,Accident , hull-loss
+06-SEP-1997,Boeing 767,Canadian Airlines,Beijing-Capi...,Substantial,0,Takeoff (TOF),China,Canada,International,209.0,Accident , repairable-damage
+06-SEP-1997,Boeing 737,Saudi Arabian,Nejran Airpo...,Damaged beyond repair,0,Takeoff (TOF),Saudi Arabia,Saudi Arabia,Domestic,85.0,Accident , hull-loss
+19-DEC-1997,Boeing 737,Silkair,near Palembang,Destroyed,104,En route (ENR),Indonesia,Singapore,International,104.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+20-DEC-1997,Boeing 737,Viva Air,Genève-Coint...,Minor,0,Pushback / towing (PBT),Switzerland,Switzerland,Domestic,26.0,Accident , repairable-damage
+29-JAN-1996,Cessna 208 Caravan,Soundsair,near Blenheim,Destroyed,5,En route (ENR),New Zealand,New Zealand,Domestic,6.0,Accident , hull-loss
+29-FEB-1996,Boeing 737,Faucett Perú,near Arequipa-Rod...,Destroyed,123,Approach (APR),Peru,Peru,Domestic,123.0,Accident , hull-loss
+08-MAR-1996,Boeing 767,Canadian Airlines,Halifax Inte...,Substantial,0,Landing (LDG),Canada,Canada,Domestic,100.0,Accident , repairable-damage
+02-AUG-1996,Boeing 737,Air Algérie,Tlemcen  Air...,Substantial,0,Takeoff (TOF),Algeria,Algeria,Domestic,106.0,Accident , repairable-damage
+23-NOV-1996,Boeing 767,Ethiopian Airlines,"near Mitsamiouli,...",Destroyed,125,Approach (APR),Ethiopia,Kenya,International,175.0,Hijacking , hull-loss
+19-DEC-1996,Airbus A320,Mexicana,Villahermosa...,Substantial,0,Landing (LDG),Mexico,Mexico,Domestic,92.0,Accident , repairable-damage
+16-JAN-1995,Boeing 737,Sempati Air,Yogyakarta-A...,Damaged beyond repair,0,Landing (LDG),Indonesia,Indonesia,Domestic,57.0,Accident , hull-loss
+02-FEB-1995,Boeing 737,VASP,São Paulo-Gu...,Damaged beyond repair,0,Takeoff (TOF),Brazil,Argentina,International,128.0,Accident , hull-loss
+13-APR-1995,Boeing 737,MarkAir,Denver Inter...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,147.0,Accident , repairable-damage
+03-JUN-1995,Airbus A320,Northwest Airlines,Minneapolis-...,Substantial,0,Taxi (TXI),United States of America,United States of America,Domestic,115.0,Accident , repairable-damage
+09-AUG-1995,Boeing 737,Aviateca,near San Salvador,Destroyed,65,Approach (APR),Guatemala,El Salvador,International,65.0,Accident , hull-loss
+06-SEP-1995,Boeing 737,Carnival Air Lines,Miami Intern...,Substantial,0,Taxi (TXI),United States of America,Haiti,International,78.0,Accident , repairable-damage
+16-SEP-1995,Boeing 767,Delta Air Lines,Hamburg-Fuhl...,Substantial,0,Taxi (TXI),Germany,United States of America,International,224.0,Accident , repairable-damage
+13-NOV-1995,Boeing 737,Nigeria Airways,Kaduna Airpo...,Damaged beyond repair,11,Landing (LDG),Nigeria,Nigeria,Domestic,138.0,Accident , hull-loss
+02-DEC-1995,Boeing 737,Indian Airlines,Delhi-Indira...,Damaged beyond repair,0,Landing (LDG),India,India,Domestic,108.0,Accident , hull-loss
+03-DEC-1995,Boeing 737,Cameroon Airlines,near Douala Airpo...,Destroyed,71,Approach (APR),Benin,Cameroon,International,76.0,Accident , hull-loss
+29-APR-1994,Cessna 208 Caravan,L.A. de los Libertadores,near El Rosal,Damaged beyond repair,8,Approach (APR),Colombia,Colombia,Domestic,9.0,Accident , hull-loss
+08-JUL-1994,Boeing 737,Garuda,Medan-Poloni...,Substantial,0,Landing (LDG),Indonesia,Indonesia,Domestic,90.0,Accident , repairable-damage
+27-AUG-1994,Boeing 737,THY,Istanbul-Ata...,Substantial,0,Landing (LDG),Turkey,Turkey,Domestic,176.0,Accident , repairable-damage
+08-SEP-1994,Boeing 737,USAir,"near Aliquippa, PA",Destroyed,132,Approach (APR),United States of America,United States of America,Domestic,132.0,Accident , hull-loss
+29-DEC-1994,Boeing 737,THY,near Van Airport ...,Damaged beyond repair,57,Approach (APR),Turkey,Turkey,Domestic,76.0,Accident , hull-loss
+06-APR-1993,Boeing 767,TACA,Guatemala Ci...,Damaged beyond repair,0,Landing (LDG),El Salvador,Guatemala,International,236.0,Accident , hull-loss
+26-APR-1993,Boeing 737,Indian Airlines,near Aurangabad A...,Damaged beyond repair,55,Takeoff (TOF),India,India,Domestic,118.0,Accident , hull-loss
+18-JUL-1993,Boeing 737,SAHSA,Managua-Augu...,Damaged beyond repair,0,Landing (LDG),Honduras,Nicaragua,International,94.0,Accident , hull-loss
+26-JUL-1993,Boeing 737,Asiana Airlines,near Mokpo Airpor...,Destroyed,68,Approach (APR),South Korea,South Korea,Domestic,116.0,Accident , hull-loss
+06-SEP-1993,Cessna 208 Caravan,Andaman and Nicobar Adm.,near Port Blair,Damaged beyond repair,1,Landing (LDG),India,India,Domestic,4.0,Accident , hull-loss
+06-SEP-1993,Boeing 767,Air New Zealand,Los Angeles ...,Substantial,0,Standing (STD),United States of America,United States of America,Domestic,204.0,Accident , repairable-damage
+14-SEP-1993,Airbus A320,Lufthansa,Warszawa-Oke...,Damaged beyond repair,2,Landing (LDG),Germany,Poland,International,70.0,Accident , hull-loss
+19-NOV-1993,Boeing 737,COPA Panama,Panama City-...,Damaged beyond repair,0,Landing (LDG),United States of America,Panama,International,92.0,Accident , hull-loss
+10-JAN-1992,Boeing 737,Air Lanka,Madras Airpo...,Substantial,0,Landing (LDG),Sri Lanka,India,International,116.0,Accident , repairable-damage
+20-JAN-1992,Airbus A320,Air Inter,near Strasbourg-E...,Destroyed,87,Approach (APR),France,France,Domestic,96.0,Accident , hull-loss
+06-JUN-1992,Boeing 737,COPA Panama,near Tucutí,Destroyed,47,En route (ENR),Panama,Colombia,International,47.0,Accident , hull-loss
+27-OCT-1992,Boeing 767,American Airlines,São Paulo-Gu...,Substantial,0,Landing (LDG),United States of America,Brazil,International,205.0,Accident , repairable-damage
+20-NOV-1992,Boeing 737,Aerolineas Argentinas,San Luis Air...,Damaged beyond repair,0,Takeoff (TOF),Argentina,Argentina,Domestic,113.0,Accident , hull-loss
+24-NOV-1992,Boeing 737,China Southern,near Guilin Airpo...,Destroyed,141,Approach (APR),China,China,Domestic,141.0,Accident , hull-loss
+01-FEB-1991,Boeing 737,USAir,Los Angeles ...,Destroyed,22,Landing (LDG),United States of America,United States of America,Domestic,89.0,Accident , hull-loss
+14-FEB-1991,Boeing 737,TAP,Funchal Airp...,Substantial,0,Landing (LDG),Portugal,Portugal,Domestic,93.0,Accident , repairable-damage
+03-MAR-1991,Boeing 737,United Airlines,near Colorado Spr...,Destroyed,25,Approach (APR),United States of America,United States of America,Domestic,25.0,Accident , hull-loss
+09-MAR-1991,Boeing 767,Air New Zealand,Nadi Interna...,Substantial,0,Landing (LDG),United States of America,Fiji,International,163.0,Accident , repairable-damage
+26-MAY-1991,Boeing 767,Lauda Air,near Phu Toey,Destroyed,223,En route (ENR),Thailand,Austria,International,223.0,Accident , hull-loss
+16-AUG-1991,Boeing 737,Indian Airlines,near Imphal Munic...,Destroyed,69,Approach (APR),India,India,Domestic,69.0,Accident , hull-loss
+23-AUG-1991,Boeing 767,Air China,Stockholm-Ar...,Substantial,0,Landing (LDG),China,Sweden,International,180.0,Accident , repairable-damage
+17-NOV-1991,Boeing 737,SAHSA,San José-Jua...,Damaged beyond repair,0,Landing (LDG),Honduras,Costa Rica,International,42.0,Accident , hull-loss
+30-NOV-1991,Boeing 737,Southwest Airlines,Lubbock Inte...,Substantial,0,Approach (APR),United States of America,United States of America,Domestic,107.0,Accident , repairable-damage
+14-FEB-1990,Airbus A320,Indian Airlines,near Bangalore-Hi...,Destroyed,92,Approach (APR),India,India,Domestic,146.0,Accident , hull-loss
+11-MAY-1990,Boeing 737,Philippine Air Lines,Manila-Ninoy...,Damaged beyond repair,8,Pushback / towing (PBT),Philippines,Philippines,Domestic,120.0,Accident , hull-loss
+22-JUL-1990,Boeing 737,USAir,Kinston-Stal...,Substantial,0,Takeoff (TOF),United States of America,United States of America,Domestic,27.0,Accident , hull-loss
+14-SEP-1990,Cessna 208 Caravan,private,Pereira-Mate...,Substantial,2,Takeoff (TOF),Colombia,Colombia,Domestic,9.0,Accident , repairable-damage
+02-OCT-1990,Boeing 737,Xiamen Airlines,Guangzhou-Ba...,Destroyed,82,Landing (LDG),China,China,Domestic,102.0,Hijacking , hull-loss
+08-JAN-1989,Boeing 737,BMA,near Kegworth,Destroyed,47,Approach (APR),United Kingdom,United Kingdom,Domestic,126.0,Accident , hull-loss
+20-JAN-1989,Boeing 737,Piedmont Airlines,Chicago-O'Ha...,Substantial,0,Takeoff (TOF),United States of America,United States of America,Domestic,33.0,Accident , repairable-damage
+20-MAY-1989,Cessna 208 Caravan,Peruvian Police,near Huaral,Damaged beyond repair,9,En route (ENR),Peru,Peru,Domestic,9.0,Accident , hull-loss
+03-SEP-1989,Boeing 737,Varig,São José do ...,Damaged beyond repair,12,En route (ENR),Brazil,Brazil,Domestic,54.0,Accident , hull-loss
+20-SEP-1989,Boeing 737,USAir,New York-La ...,Destroyed,2,Takeoff (TOF),United States of America,United States of America,Domestic,63.0,Accident , hull-loss
+26-OCT-1989,Boeing 737,China Airlines,near Hualien Airp...,Damaged beyond repair,54,En route (ENR),Taiwan,Taiwan,Domestic,54.0,Accident , hull-loss
+05-DEC-1989,Airbus A320,Air Inter,Lille-Lesqui...,Minor,0,Landing (LDG),France,France,Domestic,142.0,Accident , repairable-damage
+30-DEC-1989,Boeing 737,America West,Tucson Inter...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,130.0,Accident , hull-loss
+02-JAN-1988,Boeing 737,Condor Flugdienst,near Seferihisar,Damaged beyond repair,16,Approach (APR),Germany,Turkey,International,16.0,Accident , hull-loss
+17-JAN-1988,Boeing 737,Delta Air Lines,Vancouver In...,Substantial,0,Takeoff (TOF),Canada,United States of America,International,38.0,Accident , repairable-damage
+28-APR-1988,Boeing 737,Aloha Airlines,"near Maui, HI",Substantial,1,En route (ENR),United States of America,United States of America,Domestic,95.0,Accident , hull-loss
+19-JUN-1988,Boeing 737,Indian Airlines,Delhi-Indira...,Substantial,0,Landing (LDG),India,India,Domestic,134.0,Accident , hull-loss
+19-JUL-1988,Boeing 737,Indian Airlines,Vadodara Air...,Substantial,0,Landing (LDG),India,India,Domestic,98.0,Accident , repairable-damage
+15-SEP-1988,Boeing 737,Ethiopian Airlines,near Bahar Dar Ai...,Destroyed,35,Approach (APR),Ethiopia,Eritrea,International,104.0,Accident , hull-loss
+26-SEP-1988,Boeing 737,Aerolineas Argentinas,Ushuaia Airp...,Damaged beyond repair,0,Landing (LDG),Argentina,Argentina,Domestic,62.0,Accident , hull-loss
+19-OCT-1988,Boeing 737,Indian Airlines,near Ahmedabad Ai...,Destroyed,133,Approach (APR),India,India,Domestic,135.0,Accident , hull-loss
+04-AUG-1987,Boeing 737,LAN Chile,Calama-El Lo...,Damaged beyond repair,1,Landing (LDG),Chile,Chile,Domestic,33.0,Accident , hull-loss
+22-AUG-1987,Boeing 767,TWA,Belleville-S...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,181.0,Accident , repairable-damage
+31-AUG-1987,Boeing 737,Thai Airways,near Phuket Inter...,Destroyed,83,Approach (APR),Thailand,Thailand,Domestic,83.0,Accident , hull-loss
+01-NOV-1987,Boeing 737,Indian Airlines,Bangalore-Hi...,Substantial,0,Landing (LDG),India,India,Domestic,61.0,Accident , repairable-damage
+05-DEC-1987,Boeing 737,USAir,"Deptford, NJ",Substantial,0,En route (ENR),United States of America,United States of America,Domestic,67.0,Accident , repairable-damage
+15-JAN-1986,Boeing 737,Indian Airlines,Tiruchirappa...,Substantial,0,Approach (APR),India,India,Domestic,128.0,Accident , repairable-damage
+28-JAN-1986,Boeing 737,VASP,São Paulo-Gu...,Damaged beyond repair,1,Takeoff (TOF),Brazil,Brazil,Domestic,72.0,Accident , hull-loss
+16-FEB-1986,Boeing 737,China Airlines,near Magong Airpo...,Damaged beyond repair,13,Approach (APR),Taiwan,Taiwan,Domestic,13.0,Accident , hull-loss
+14-JUL-1986,Boeing 737,Pacific Western,Kelowna Airp...,Substantial,0,Landing (LDG),Canada,Canada,Domestic,81.0,Accident , repairable-damage
+28-AUG-1986,Boeing 737,Indian Airlines,Rajkot-Civil...,Substantial,0,Landing (LDG),India,India,Domestic,95.0,Accident , repairable-damage
+25-OCT-1986,Boeing 737,Piedmont Airlines,Charlotte-Do...,Destroyed,0,Landing (LDG),United States of America,United States of America,Domestic,119.0,Accident , hull-loss
+25-DEC-1986,Boeing 737,Iraqi Airways,near Arar,Damaged beyond repair,63,En route (ENR),Iraq,Jordan,International,106.0,Hijacking , hull-loss
+17-MAR-1985,Boeing 737,Saudi Arabian,Dhahran Inte...,Minor,1,En route (ENR),Saudi Arabia,Saudi Arabia,Domestic,97.0,Hijacking , repairable-damage
+15-APR-1985,Boeing 737,Thai Airways,near Phuket Inter...,Destroyed,11,Approach (APR),Thailand,Thailand,Domestic,11.0,Accident , hull-loss
+11-MAY-1985,Boeing 737,Saudi Arabian,Doha Interna...,Substantial,0,Takeoff (TOF),Qatar,Saudi Arabia,International,104.0,Accident , repairable-damage
+22-AUG-1985,Boeing 737,British Airtours,Manchester I...,Destroyed,55,Takeoff (TOF),United Kingdom,Greece,International,137.0,Accident , hull-loss
+25-SEP-1985,Boeing 737,MarkAir,Unalaska Air...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,21.0,Accident , repairable-damage
+01-NOV-1985,Cessna 208 Caravan,Hermens Air,Bethel Airpo...,Destroyed,2,Initial climb (ICL),United States of America,United States of America,Domestic,4.0,Accident , hull-loss
+24-NOV-1985,Boeing 737,EgyptAir,Malta-Luqa A...,Damaged beyond repair,60,Standing (STD),Greece,Egypt,International,98.0,Hijacking , hull-loss
+07-DEC-1985,Boeing 737,Aer Lingus,Dublin Airpo...,Substantial,0,Initial climb (ICL),Ireland,United Kingdom,International,123.0,Accident , repairable-damage
+09-FEB-1984,Boeing 737,TAAG,Huambo Airpo...,Damaged beyond repair,0,Landing (LDG),Angola,Angola,Domestic,142.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+22-MAR-1984,Boeing 737,Pacific Western,Calgary Inte...,Damaged beyond repair,0,Takeoff (TOF),Canada,Canada,Domestic,119.0,Accident , hull-loss
+06-JUN-1984,Boeing 737,Indian Airlines,Calcutta Air...,Substantial,0,Landing (LDG),India,India,Domestic,129.0,Accident , repairable-damage
+31-JUL-1984,Boeing 737,Air France,Tehran-Mehra...,Substantial,0,En route (ENR),Germany,France,International,64.0,Hijacking , repairable-damage
+30-AUG-1984,Boeing 737,Cameroon Airlines,Douala Airpo...,Damaged beyond repair,2,Taxi (TXI),Cameroon,Cameroon,Domestic,116.0,Accident , hull-loss
+11-JUL-1983,Boeing 737,TAME Ecuador,near Cuenca,Destroyed,119,Approach (APR),Ecuador,Ecuador,Domestic,119.0,Accident , hull-loss
+23-JUL-1983,Boeing 767,Air Canada,Gimli Airpor...,Substantial,0,En route (ENR),Canada,Canada,Domestic,69.0,Accident , repairable-damage
+23-SEP-1983,Boeing 737,Gulf Air,Mino Jebel Ali,Destroyed,112,Approach (APR),Pakistan,United Arab Emirates,International,112.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+08-NOV-1983,Boeing 737,TAAG,near Lubango Airp...,Destroyed,130,Initial climb (ICL),Angola,Angola,Domestic,130.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+13-JAN-1982,Boeing 737,Air Florida,near Washington-N...,Destroyed,78,Initial climb (ICL),United States of America,United States of America,Domestic,79.0,Accident , hull-loss
+25-MAY-1982,Boeing 737,VASP,Brasilia Int...,Damaged beyond repair,2,Landing (LDG),Brazil,Brazil,Domestic,118.0,Accident , hull-loss
+26-AUG-1982,Boeing 737,Southwest Air Lines,Ishigaki Air...,Damaged beyond repair,0,Landing (LDG),Japan,Japan,Domestic,138.0,Accident , hull-loss
+17-FEB-1981,Boeing 737,Air California,Santa Ana-Jo...,Damaged beyond repair,0,Landing (LDG),United States of America,United States of America,Domestic,110.0,Accident , hull-loss
+22-AUG-1981,Boeing 737,FEAT,near Sanyi Townsh...,Destroyed,110,En route (ENR),Taiwan,Taiwan,Domestic,110.0,Accident , hull-loss
+13-OCT-1981,Boeing 737,Air Malta,Cairo Intern...,Substantial,0,Standing (STD),Malta,Egypt,International,0.0,"Criminal occurrence (sabotage, shoot down) ", repairable-damage
+04-NOV-1980,Boeing 737,TAAG,Benguela Air...,Damaged beyond repair,0,Landing (LDG),Angola,Angola,Domestic,134.0,Accident , hull-loss
+26-APR-1979,Boeing 737,Indian Airlines,Madras Airpo...,Damaged beyond repair,0,Landing (LDG),India,India,Domestic,67.0,"Criminal occurrence (sabotage, shoot down) ", hull-loss
+22-MAY-1979,Boeing 737,Indian Airlines,Nagpur Airpo...,Substantial,0,Landing (LDG),India,India,Domestic,131.0,Accident , repairable-damage
+11-FEB-1978,Boeing 737,Pacific Western,Cranbrook Ai...,Destroyed,42,Landing (LDG),Canada,Canada,Domestic,49.0,Accident , hull-loss
+24-AUG-1978,Boeing 737,Aerolineas Argentinas,Buenos Aires...,Substantial,0,Landing (LDG),Argentina,Argentina,Domestic,105.0,Accident , repairable-damage
+13-OCT-1977,Boeing 737,Lufthansa,Mogadishu In...,Minor,4,En route (ENR),Spain,Germany,International,95.0,Hijacking , repairable-damage
+04-DEC-1977,Boeing 737,MAS,near Tanjong Kupang,Destroyed,100,En route (ENR),Malaysia,Malaysia,Domestic,100.0,Hijacking , hull-loss
+18-FEB-1975,Boeing 737,Indian Airlines,Bangalore-Hi...,Substantial,0,Landing (LDG),India,India,Domestic,81.0,Accident , repairable-damage
+31-MAR-1975,Boeing 737,Western Air Lines,Casper Airpo...,Damaged beyond repair,0,Landing (LDG),United States of America,United States of America,Domestic,99.0,Accident , hull-loss
+31-MAY-1973,Boeing 737,Indian Airlines,near Delhi-Indira...,Destroyed,48,Approach (APR),India,India,Domestic,65.0,Accident , hull-loss
+28-OCT-1973,Boeing 737,Piedmont Airlines,Greensboro/H...,Substantial,0,Landing (LDG),United States of America,United States of America,Domestic,96.0,Accident , repairable-damage
+08-DEC-1972,Boeing 737,United Airlines,near Chicago-Midw...,Damaged beyond repair,45,Approach (APR),United States of America,United States of America,Domestic,61.0,Accident , hull-loss
+19-JUL-1970,Boeing 737,United Airlines,Philadelphia...,Damaged beyond repair,0,Takeoff (TOF),United States of America,United States of America,Domestic,61.0,Accident , hull-loss

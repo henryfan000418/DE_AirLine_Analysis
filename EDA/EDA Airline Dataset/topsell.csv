@@ -1,0 +1,501 @@
+flight_id,flight_no,departure_city,arrival_city,total_revenue
+2354,PG0208,Moscow,Khabarovsk,17146600
+26212,PG0209,Khabarovsk,Moscow,17023600
+2364,PG0208,Moscow,Khabarovsk,16962100
+2330,PG0208,Moscow,Khabarovsk,16900600
+2329,PG0208,Moscow,Khabarovsk,16894400
+2341,PG0208,Moscow,Khabarovsk,16839100
+2344,PG0208,Moscow,Khabarovsk,16777600
+2369,PG0208,Moscow,Khabarovsk,16777600
+2325,PG0208,Moscow,Khabarovsk,16593100
+2332,PG0208,Moscow,Khabarovsk,16593100
+26162,PG0209,Khabarovsk,Moscow,16593100
+2359,PG0208,Moscow,Khabarovsk,16586900
+26173,PG0209,Khabarovsk,Moscow,16531600
+26201,PG0209,Khabarovsk,Moscow,16531600
+2322,PG0208,Moscow,Khabarovsk,16470100
+2366,PG0208,Moscow,Khabarovsk,16470100
+26168,PG0209,Khabarovsk,Moscow,16470100
+2338,PG0208,Moscow,Khabarovsk,16463900
+2351,PG0208,Moscow,Khabarovsk,16463900
+26180,PG0209,Khabarovsk,Moscow,16408600
+2340,PG0208,Moscow,Khabarovsk,16340900
+26216,PG0209,Khabarovsk,Moscow,16340900
+2375,PG0208,Moscow,Khabarovsk,16285600
+26157,PG0209,Khabarovsk,Moscow,16285600
+2347,PG0208,Moscow,Khabarovsk,16279400
+26176,PG0209,Khabarovsk,Moscow,16224100
+26167,PG0209,Khabarovsk,Moscow,16205500
+2358,PG0208,Moscow,Khabarovsk,16162600
+26193,PG0209,Khabarovsk,Moscow,16162600
+2348,PG0208,Moscow,Khabarovsk,16156400
+2321,PG0208,Moscow,Khabarovsk,16101100
+26172,PG0209,Khabarovsk,Moscow,16094900
+2355,PG0208,Moscow,Khabarovsk,16039600
+26158,PG0209,Khabarovsk,Moscow,15978100
+2343,PG0208,Moscow,Khabarovsk,15971900
+2373,PG0208,Moscow,Khabarovsk,15971900
+26198,PG0209,Khabarovsk,Moscow,15971900
+26160,PG0209,Khabarovsk,Moscow,15965700
+2357,PG0208,Moscow,Khabarovsk,15916600
+26199,PG0209,Khabarovsk,Moscow,15916600
+26204,PG0209,Khabarovsk,Moscow,15916600
+2337,PG0208,Moscow,Khabarovsk,15904200
+2336,PG0208,Moscow,Khabarovsk,15855100
+2349,PG0208,Moscow,Khabarovsk,15848900
+26184,PG0209,Khabarovsk,Moscow,15848900
+2356,PG0208,Moscow,Khabarovsk,15787400
+26189,PG0209,Khabarovsk,Moscow,15787400
+26200,PG0209,Khabarovsk,Moscow,15787400
+26181,PG0209,Khabarovsk,Moscow,15781200
+26208,PG0209,Khabarovsk,Moscow,15732100
+26177,PG0209,Khabarovsk,Moscow,15609100
+26210,PG0209,Khabarovsk,Moscow,15602900
+2326,PG0208,Moscow,Khabarovsk,15547600
+2363,PG0208,Moscow,Khabarovsk,15486100
+2319,PG0208,Moscow,Khabarovsk,15418400
+26202,PG0209,Khabarovsk,Moscow,15418400
+26194,PG0209,Khabarovsk,Moscow,15399800
+26165,PG0209,Khabarovsk,Moscow,15289200
+26187,PG0209,Khabarovsk,Moscow,15233900
+26178,PG0209,Khabarovsk,Moscow,15166200
+2346,PG0208,Moscow,Khabarovsk,15049400
+26209,PG0209,Khabarovsk,Moscow,14926400
+26170,PG0209,Khabarovsk,Moscow,14618900
+2339,PG0208,Moscow,Khabarovsk,14557400
+2376,PG0208,Moscow,Khabarovsk,14366700
+26190,PG0209,Khabarovsk,Moscow,14311400
+26248,PG0357,Khabarovsk,St. Petersburg,14069300
+2365,PG0208,Moscow,Khabarovsk,13936200
+2350,PG0208,Moscow,Khabarovsk,13739300
+26179,PG0209,Khabarovsk,Moscow,13388900
+9819,PG0223,Novosibirsk,Moscow,12927600
+2334,PG0208,Moscow,Khabarovsk,12890700
+2362,PG0208,Moscow,Khabarovsk,12884500
+260,PG0222,Moscow,Novosibirsk,12793700
+26219,PG0357,Khabarovsk,St. Petersburg,12771500
+9363,PG0356,St. Petersburg,Khabarovsk,12703500
+26164,PG0209,Khabarovsk,Moscow,12693800
+26191,PG0209,Khabarovsk,Moscow,12657100
+305,PG0222,Moscow,Novosibirsk,12598500
+249,PG0222,Moscow,Novosibirsk,12562200
+26163,PG0209,Khabarovsk,Moscow,12454000
+250,PG0222,Moscow,Novosibirsk,12431000
+267,PG0222,Moscow,Novosibirsk,12400400
+276,PG0222,Moscow,Novosibirsk,12369700
+290,PG0222,Moscow,Novosibirsk,12233000
+282,PG0222,Moscow,Novosibirsk,12207900
+26272,PG0357,Khabarovsk,St. Petersburg,12206500
+301,PG0222,Moscow,Novosibirsk,12205000
+26271,PG0357,Khabarovsk,St. Petersburg,12193700
+268,PG0222,Moscow,Novosibirsk,12135300
+283,PG0222,Moscow,Novosibirsk,12087900
+259,PG0222,Moscow,Novosibirsk,12046000
+292,PG0222,Moscow,Novosibirsk,12043300
+2345,PG0208,Moscow,Khabarovsk,12035900
+298,PG0222,Moscow,Novosibirsk,11931700
+9849,PG0223,Novosibirsk,Moscow,11931600
+9821,PG0223,Novosibirsk,Moscow,11926200
+26275,PG0357,Khabarovsk,St. Petersburg,11908800
+26249,PG0357,Khabarovsk,St. Petersburg,11908700
+9878,PG0223,Novosibirsk,Moscow,11898200
+9851,PG0223,Novosibirsk,Moscow,11878600
+270,PG0222,Moscow,Novosibirsk,11876000
+9831,PG0223,Novosibirsk,Moscow,11864800
+286,PG0222,Moscow,Novosibirsk,11775400
+9839,PG0223,Novosibirsk,Moscow,11756000
+26265,PG0357,Khabarovsk,St. Petersburg,11753100
+9833,PG0223,Novosibirsk,Moscow,11736500
+2331,PG0208,Moscow,Khabarovsk,11709800
+9872,PG0223,Novosibirsk,Moscow,11658300
+2324,PG0208,Moscow,Khabarovsk,11654500
+9835,PG0223,Novosibirsk,Moscow,11619300
+269,PG0222,Moscow,Novosibirsk,11613800
+284,PG0222,Moscow,Novosibirsk,11602500
+9351,PG0356,St. Petersburg,Khabarovsk,11591900
+26266,PG0357,Khabarovsk,St. Petersburg,11579900
+26243,PG0357,Khabarovsk,St. Petersburg,11579400
+9864,PG0223,Novosibirsk,Moscow,11577300
+9869,PG0223,Novosibirsk,Moscow,11569100
+9847,PG0223,Novosibirsk,Moscow,11541100
+273,PG0222,Moscow,Novosibirsk,11530000
+26188,PG0209,Khabarovsk,Moscow,11525300
+9840,PG0223,Novosibirsk,Moscow,11518800
+26159,PG0209,Khabarovsk,Moscow,11482400
+304,PG0222,Moscow,Novosibirsk,11463000
+26252,PG0357,Khabarovsk,St. Petersburg,11461500
+9375,PG0356,St. Petersburg,Khabarovsk,11455400
+275,PG0222,Moscow,Novosibirsk,11435100
+9871,PG0223,Novosibirsk,Moscow,11418400
+297,PG0222,Moscow,Novosibirsk,11415600
+281,PG0222,Moscow,Novosibirsk,11373700
+9818,PG0223,Novosibirsk,Moscow,11356900
+9837,PG0223,Novosibirsk,Moscow,11334700
+274,PG0222,Moscow,Novosibirsk,11331900
+9842,PG0223,Novosibirsk,Moscow,11317900
+2371,PG0208,Moscow,Khabarovsk,11285500
+271,PG0222,Moscow,Novosibirsk,11281800
+265,PG0222,Moscow,Novosibirsk,11281700
+9340,PG0356,St. Petersburg,Khabarovsk,11281700
+9820,PG0223,Novosibirsk,Moscow,11273400
+261,PG0222,Moscow,Novosibirsk,11273300
+9853,PG0223,Novosibirsk,Moscow,11239900
+9877,PG0223,Novosibirsk,Moscow,11234200
+256,PG0222,Moscow,Novosibirsk,11231600
+9863,PG0223,Novosibirsk,Moscow,11220200
+26250,PG0357,Khabarovsk,St. Petersburg,11207200
+294,PG0222,Moscow,Novosibirsk,11178400
+9860,PG0223,Novosibirsk,Moscow,11172900
+2335,PG0208,Moscow,Khabarovsk,11162500
+26261,PG0357,Khabarovsk,St. Petersburg,11151000
+289,PG0222,Moscow,Novosibirsk,11136600
+272,PG0222,Moscow,Novosibirsk,11092100
+5262,PG0277,Moscow,Novosibirsk,11074000
+9855,PG0223,Novosibirsk,Moscow,11069800
+26182,PG0209,Khabarovsk,Moscow,11045700
+26236,PG0357,Khabarovsk,St. Petersburg,11027200
+9832,PG0223,Novosibirsk,Moscow,11025200
+9388,PG0356,St. Petersburg,Khabarovsk,11008200
+9838,PG0223,Novosibirsk,Moscow,10960900
+2361,PG0208,Moscow,Khabarovsk,10922700
+26255,PG0357,Khabarovsk,St. Petersburg,10915200
+26226,PG0357,Khabarovsk,St. Petersburg,10890200
+26260,PG0357,Khabarovsk,St. Petersburg,10871700
+9342,PG0356,St. Petersburg,Khabarovsk,10841100
+26257,PG0357,Khabarovsk,St. Petersburg,10834600
+9380,PG0356,St. Petersburg,Khabarovsk,10828300
+9854,PG0223,Novosibirsk,Moscow,10801900
+26171,PG0209,Khabarovsk,Moscow,10799700
+9836,PG0223,Novosibirsk,Moscow,10782200
+300,PG0222,Moscow,Novosibirsk,10721000
+26228,PG0357,Khabarovsk,St. Petersburg,10704400
+9333,PG0356,St. Petersburg,Khabarovsk,10704000
+9373,PG0356,St. Petersburg,Khabarovsk,10698000
+9824,PG0223,Novosibirsk,Moscow,10690300
+247,PG0222,Moscow,Novosibirsk,10665100
+2370,PG0208,Moscow,Khabarovsk,10664300
+9822,PG0223,Novosibirsk,Moscow,10662400
+302,PG0222,Moscow,Novosibirsk,10662100
+9343,PG0356,St. Petersburg,Khabarovsk,10648600
+9844,PG0223,Novosibirsk,Moscow,10637200
+9389,PG0356,St. Petersburg,Khabarovsk,10635900
+26213,PG0209,Khabarovsk,Moscow,10596600
+9338,PG0356,St. Petersburg,Khabarovsk,10586400
+9825,PG0223,Novosibirsk,Moscow,10584200
+9924,PG0278,Novosibirsk,Moscow,10581200
+9331,PG0356,St. Petersburg,Khabarovsk,10580100
+26263,PG0357,Khabarovsk,St. Petersburg,10573600
+9926,PG0278,Novosibirsk,Moscow,10570000
+293,PG0222,Moscow,Novosibirsk,10534000
+26224,PG0357,Khabarovsk,St. Petersburg,10524300
+26262,PG0357,Khabarovsk,St. Petersburg,10524200
+9862,PG0223,Novosibirsk,Moscow,10428200
+9899,PG0278,Novosibirsk,Moscow,10410400
+9905,PG0278,Novosibirsk,Moscow,10404800
+9360,PG0356,St. Petersburg,Khabarovsk,10400000
+9334,PG0356,St. Petersburg,Khabarovsk,10381200
+26237,PG0357,Khabarovsk,St. Petersburg,10338200
+26240,PG0357,Khabarovsk,St. Petersburg,10337800
+26251,PG0357,Khabarovsk,St. Petersburg,10331600
+9367,PG0356,St. Petersburg,Khabarovsk,10325500
+9874,PG0223,Novosibirsk,Moscow,10324800
+26205,PG0209,Khabarovsk,Moscow,10307700
+5272,PG0277,Moscow,Novosibirsk,10306800
+26274,PG0357,Khabarovsk,St. Petersburg,10281700
+9895,PG0278,Novosibirsk,Moscow,10273200
+5280,PG0277,Moscow,Novosibirsk,10262000
+5291,PG0277,Moscow,Novosibirsk,10192000
+9859,PG0223,Novosibirsk,Moscow,10185300
+5268,PG0277,Moscow,Novosibirsk,10158400
+5259,PG0277,Moscow,Novosibirsk,10155600
+9907,PG0278,Novosibirsk,Moscow,10155600
+5284,PG0277,Moscow,Novosibirsk,10152800
+295,PG0222,Moscow,Novosibirsk,10123800
+2342,PG0208,Moscow,Khabarovsk,10117000
+2323,PG0208,Moscow,Khabarovsk,10110800
+9892,PG0278,Novosibirsk,Moscow,10096800
+5293,PG0277,Moscow,Novosibirsk,10060400
+5270,PG0277,Moscow,Novosibirsk,9998800
+5282,PG0277,Moscow,Novosibirsk,9993200
+26211,PG0209,Khabarovsk,Moscow,9981600
+9378,PG0356,St. Petersburg,Khabarovsk,9946600
+9826,PG0223,Novosibirsk,Moscow,9917500
+26231,PG0357,Khabarovsk,St. Petersburg,9903300
+9330,PG0356,St. Petersburg,Khabarovsk,9897100
+9355,PG0356,St. Petersburg,Khabarovsk,9897000
+5279,PG0277,Moscow,Novosibirsk,9861600
+9908,PG0278,Novosibirsk,Moscow,9844800
+9937,PG0278,Novosibirsk,Moscow,9844800
+9344,PG0356,St. Petersburg,Khabarovsk,9841400
+5283,PG0277,Moscow,Novosibirsk,9839200
+5288,PG0277,Moscow,Novosibirsk,9839200
+26222,PG0357,Khabarovsk,St. Petersburg,9828800
+9346,PG0356,St. Petersburg,Khabarovsk,9828300
+9898,PG0278,Novosibirsk,Moscow,9825200
+5275,PG0277,Moscow,Novosibirsk,9797200
+25247,PG0199,Irkutsk,St. Petersburg,9794400
+9349,PG0356,St. Petersburg,Khabarovsk,9791500
+5299,PG0277,Moscow,Novosibirsk,9788800
+9857,PG0223,Novosibirsk,Moscow,9786600
+26267,PG0357,Khabarovsk,St. Petersburg,9779300
+26270,PG0357,Khabarovsk,St. Petersburg,9772700
+9354,PG0356,St. Petersburg,Khabarovsk,9772500
+9362,PG0356,St. Petersburg,Khabarovsk,9766500
+9909,PG0278,Novosibirsk,Moscow,9744000
+9911,PG0278,Novosibirsk,Moscow,9744000
+9901,PG0278,Novosibirsk,Moscow,9721600
+5285,PG0277,Moscow,Novosibirsk,9718800
+26268,PG0357,Khabarovsk,St. Petersburg,9717000
+26225,PG0357,Khabarovsk,St. Petersburg,9710600
+5250,PG0277,Moscow,Novosibirsk,9710400
+5276,PG0277,Moscow,Novosibirsk,9702000
+5244,PG0277,Moscow,Novosibirsk,9682400
+25218,PG0199,Irkutsk,St. Petersburg,9665900
+9919,PG0278,Novosibirsk,Moscow,9657200
+26239,PG0357,Khabarovsk,St. Petersburg,9654900
+9372,PG0356,St. Petersburg,Khabarovsk,9642600
+5301,PG0277,Moscow,Novosibirsk,9637600
+25228,PG0199,Irkutsk,St. Petersburg,9621600
+25230,PG0199,Irkutsk,St. Petersburg,9621600
+25256,PG0199,Irkutsk,St. Petersburg,9617200
+9932,PG0278,Novosibirsk,Moscow,9615200
+5248,PG0277,Moscow,Novosibirsk,9604000
+9828,PG0223,Novosibirsk,Moscow,9585500
+25214,PG0199,Irkutsk,St. Petersburg,9577300
+5273,PG0277,Moscow,Novosibirsk,9550800
+9326,PG0198,St. Petersburg,Irkutsk,9533000
+25241,PG0199,Irkutsk,St. Petersburg,9524200
+1330,PG0144,Moscow,Petropavlovsk,9516900
+5267,PG0277,Moscow,Novosibirsk,9503200
+9889,PG0278,Novosibirsk,Moscow,9492000
+25261,PG0199,Irkutsk,St. Petersburg,9488700
+5255,PG0277,Moscow,Novosibirsk,9486400
+9896,PG0278,Novosibirsk,Moscow,9469600
+258,PG0222,Moscow,Novosibirsk,9440300
+9301,PG0198,St. Petersburg,Irkutsk,9435600
+25209,PG0199,Irkutsk,St. Petersburg,9435600
+25245,PG0199,Irkutsk,St. Petersburg,9435600
+9916,PG0278,Novosibirsk,Moscow,9433200
+9348,PG0356,St. Petersburg,Khabarovsk,9412400
+9882,PG0278,Novosibirsk,Moscow,9410800
+26259,PG0357,Khabarovsk,St. Petersburg,9406400
+26220,PG0357,Khabarovsk,St. Petersburg,9400300
+9300,PG0198,St. Petersburg,Irkutsk,9400100
+9888,PG0278,Novosibirsk,Moscow,9388400
+26192,PG0209,Khabarovsk,Moscow,9379000
+9917,PG0278,Novosibirsk,Moscow,9371600
+5290,PG0277,Moscow,Novosibirsk,9360400
+25232,PG0199,Irkutsk,St. Petersburg,9355800
+9382,PG0356,St. Petersburg,Khabarovsk,9344400
+5296,PG0277,Moscow,Novosibirsk,9340800
+9387,PG0356,St. Petersburg,Khabarovsk,9332100
+9377,PG0356,St. Petersburg,Khabarovsk,9326000
+9925,PG0278,Novosibirsk,Moscow,9324000
+9894,PG0278,Novosibirsk,Moscow,9321200
+25235,PG0199,Irkutsk,St. Petersburg,9307100
+5281,PG0277,Moscow,Novosibirsk,9293200
+9927,PG0278,Novosibirsk,Moscow,9287600
+26246,PG0357,Khabarovsk,St. Petersburg,9282200
+26232,PG0357,Khabarovsk,St. Petersburg,9276400
+9341,PG0356,St. Petersburg,Khabarovsk,9276100
+9295,PG0198,St. Petersburg,Irkutsk,9262800
+9302,PG0198,St. Petersburg,Irkutsk,9262800
+2372,PG0208,Moscow,Khabarovsk,9262200
+9298,PG0198,St. Petersburg,Irkutsk,9258400
+9920,PG0278,Novosibirsk,Moscow,9245600
+9386,PG0356,St. Petersburg,Khabarovsk,9239100
+9285,PG0198,St. Petersburg,Irkutsk,9222900
+9933,PG0278,Novosibirsk,Moscow,9217600
+9365,PG0356,St. Petersburg,Khabarovsk,9201700
+9292,PG0198,St. Petersburg,Irkutsk,9169800
+285,PG0222,Moscow,Novosibirsk,9169700
+9361,PG0356,St. Petersburg,Khabarovsk,9164400
+5242,PG0277,Moscow,Novosibirsk,9144800
+25212,PG0199,Irkutsk,St. Petersburg,9134300
+9310,PG0198,St. Petersburg,Irkutsk,9129900
+9903,PG0278,Novosibirsk,Moscow,9119600
+9890,PG0278,Novosibirsk,Moscow,9091600
+9885,PG0278,Novosibirsk,Moscow,9080400
+287,PG0222,Moscow,Novosibirsk,9055400
+25231,PG0199,Irkutsk,St. Petersburg,9041300
+9271,PG0198,St. Petersburg,Irkutsk,9036900
+9939,PG0278,Novosibirsk,Moscow,9032800
+5300,PG0277,Moscow,Novosibirsk,9030000
+279,PG0222,Moscow,Novosibirsk,9016400
+25210,PG0199,Irkutsk,St. Petersburg,9001400
+5252,PG0277,Moscow,Novosibirsk,8993600
+26207,PG0209,Khabarovsk,Moscow,8954700
+9303,PG0198,St. Petersburg,Irkutsk,8908400
+9337,PG0356,St. Petersburg,Khabarovsk,8897100
+5298,PG0277,Moscow,Novosibirsk,8881600
+25244,PG0199,Irkutsk,St. Petersburg,8864100
+9318,PG0198,St. Petersburg,Irkutsk,8859700
+9289,PG0198,St. Petersburg,Irkutsk,8824200
+9312,PG0198,St. Petersburg,Irkutsk,8819800
+9323,PG0198,St. Petersburg,Irkutsk,8806600
+26244,PG0357,Khabarovsk,St. Petersburg,8785900
+9324,PG0198,St. Petersburg,Irkutsk,8779900
+26264,PG0357,Khabarovsk,St. Petersburg,8773400
+25224,PG0199,Irkutsk,St. Petersburg,8766700
+26186,PG0209,Khabarovsk,Moscow,8764000
+9269,PG0198,St. Petersburg,Irkutsk,8731200
+5266,PG0277,Moscow,Novosibirsk,8688400
+9286,PG0198,St. Petersburg,Irkutsk,8686900
+9325,PG0198,St. Petersburg,Irkutsk,8686900
+25234,PG0199,Irkutsk,St. Petersburg,8686900
+25250,PG0199,Irkutsk,St. Petersburg,8686900
+9313,PG0198,St. Petersburg,Irkutsk,8682500
+25246,PG0199,Irkutsk,St. Petersburg,8682500
+266,PG0222,Moscow,Novosibirsk,8678800
+9390,PG0356,St. Petersburg,Khabarovsk,8667900
+9350,PG0356,St. Petersburg,Khabarovsk,8643000
+9281,PG0198,St. Petersburg,Irkutsk,8642600
+9296,PG0198,St. Petersburg,Irkutsk,8642600
+9297,PG0198,St. Petersburg,Irkutsk,8642600
+18244,PG0145,Petropavlovsk,Moscow,8642600
+25259,PG0199,Irkutsk,St. Petersburg,8642600
+9270,PG0198,St. Petersburg,Irkutsk,8638200
+9278,PG0198,St. Petersburg,Irkutsk,8633800
+9327,PG0198,St. Petersburg,Irkutsk,8633800
+9381,PG0356,St. Petersburg,Khabarovsk,8599600
+9274,PG0198,St. Petersburg,Irkutsk,8598300
+9280,PG0198,St. Petersburg,Irkutsk,8558400
+9309,PG0198,St. Petersburg,Irkutsk,8558400
+9329,PG0198,St. Petersburg,Irkutsk,8549600
+25243,PG0199,Irkutsk,St. Petersburg,8540800
+26223,PG0357,Khabarovsk,St. Petersburg,8537600
+5249,PG0277,Moscow,Novosibirsk,8531600
+25249,PG0199,Irkutsk,St. Petersburg,8509700
+25253,PG0199,Irkutsk,St. Petersburg,8505300
+9931,PG0278,Novosibirsk,Moscow,8486800
+25221,PG0199,Irkutsk,St. Petersburg,8461000
+9938,PG0278,Novosibirsk,Moscow,8436400
+1324,PG0144,Moscow,Petropavlovsk,8371600
+9322,PG0198,St. Petersburg,Irkutsk,8368000
+9364,PG0356,St. Petersburg,Khabarovsk,8350600
+9374,PG0356,St. Petersburg,Khabarovsk,8344600
+9915,PG0278,Novosibirsk,Moscow,8332800
+1318,PG0144,Moscow,Petropavlovsk,8304000
+9306,PG0198,St. Petersburg,Irkutsk,8283800
+25215,PG0199,Irkutsk,St. Petersburg,8270600
+9875,PG0223,Novosibirsk,Moscow,8266000
+25222,PG0199,Irkutsk,St. Petersburg,8243900
+5294,PG0277,Moscow,Novosibirsk,8226400
+1319,PG0144,Moscow,Petropavlovsk,8222600
+9385,PG0356,St. Petersburg,Khabarovsk,8214600
+5295,PG0277,Moscow,Novosibirsk,8190000
+9311,PG0198,St. Petersburg,Irkutsk,8186400
+9934,PG0278,Novosibirsk,Moscow,8167600
+25227,PG0199,Irkutsk,St. Petersburg,8159700
+25267,PG0199,Irkutsk,St. Petersburg,8150900
+9922,PG0278,Novosibirsk,Moscow,8150800
+9273,PG0198,St. Petersburg,Irkutsk,8111000
+9328,PG0198,St. Petersburg,Irkutsk,8106600
+25248,PG0199,Irkutsk,St. Petersburg,8102200
+9272,PG0198,St. Petersburg,Irkutsk,8097800
+9356,PG0356,St. Petersburg,Khabarovsk,8090300
+9870,PG0223,Novosibirsk,Moscow,8090300
+9299,PG0198,St. Petersburg,Irkutsk,8071100
+9316,PG0198,St. Petersburg,Irkutsk,8071100
+9308,PG0198,St. Petersburg,Irkutsk,8062300
+5271,PG0277,Moscow,Novosibirsk,8044400
+9379,PG0356,St. Petersburg,Khabarovsk,8034200
+25217,PG0199,Irkutsk,St. Petersburg,8009200
+9928,PG0278,Novosibirsk,Moscow,7968800
+9332,PG0356,St. Petersburg,Khabarovsk,7966200
+25262,PG0199,Irkutsk,St. Petersburg,7964900
+25254,PG0199,Irkutsk,St. Petersburg,7933800
+9290,PG0198,St. Petersburg,Irkutsk,7929400
+9319,PG0198,St. Petersburg,Irkutsk,7929400
+9347,PG0356,St. Petersburg,Khabarovsk,7922600
+26234,PG0357,Khabarovsk,St. Petersburg,7916600
+26227,PG0357,Khabarovsk,St. Petersburg,7910300
+26217,PG0209,Khabarovsk,Moscow,7878200
+25216,PG0199,Irkutsk,St. Petersburg,7876300
+25238,PG0199,Irkutsk,St. Petersburg,7832000
+9284,PG0198,St. Petersburg,Irkutsk,7796500
+26233,PG0357,Khabarovsk,St. Petersburg,7779700
+5256,PG0277,Moscow,Novosibirsk,7764400
+9893,PG0278,Novosibirsk,Moscow,7753200
+9865,PG0223,Novosibirsk,Moscow,7738900
+278,PG0222,Moscow,Novosibirsk,7719200
+25226,PG0199,Irkutsk,St. Petersburg,7712300
+9358,PG0356,St. Petersburg,Khabarovsk,7711400
+251,PG0222,Moscow,Novosibirsk,7702500
+9867,PG0223,Novosibirsk,Moscow,7680300
+255,PG0222,Moscow,Novosibirsk,7674600
+245,PG0222,Moscow,Novosibirsk,7632600
+288,PG0222,Moscow,Novosibirsk,7616000
+9276,PG0198,St. Petersburg,Irkutsk,7575000
+18234,PG0145,Petropavlovsk,Moscow,7544700
+5265,PG0277,Moscow,Novosibirsk,7515200
+9913,PG0278,Novosibirsk,Moscow,7487200
+1310,PG0144,Moscow,Petropavlovsk,7483900
+1325,PG0144,Moscow,Petropavlovsk,7483300
+9339,PG0356,St. Petersburg,Khabarovsk,7475500
+25208,PG0199,Irkutsk,St. Petersburg,7473200
+18240,PG0145,Petropavlovsk,Moscow,7348100
+277,PG0222,Moscow,Novosibirsk,7337100
+5277,PG0277,Moscow,Novosibirsk,7333200
+5297,PG0277,Moscow,Novosibirsk,7330400
+9904,PG0278,Novosibirsk,Moscow,7288400
+5247,PG0277,Moscow,Novosibirsk,7176400
+18254,PG0145,Petropavlovsk,Moscow,7130900
+9902,PG0278,Novosibirsk,Moscow,7078400
+25266,PG0199,Irkutsk,St. Petersburg,7074500
+9850,PG0223,Novosibirsk,Moscow,7024600
+2379,PG0208,Moscow,Khabarovsk,6961900
+26183,PG0209,Khabarovsk,Moscow,6961900
+9352,PG0356,St. Petersburg,Khabarovsk,6929400
+5289,PG0277,Moscow,Novosibirsk,6904800
+25242,PG0199,Irkutsk,St. Petersburg,6892900
+18089,PG0704,Yuzhno-Sakhalinsk,Moscow,6867500
+18236,PG0145,Petropavlovsk,Moscow,6866800
+9279,PG0198,St. Petersburg,Irkutsk,6861800
+303,PG0222,Moscow,Novosibirsk,6846100
+9321,PG0198,St. Petersburg,Irkutsk,6808700
+2327,PG0208,Moscow,Khabarovsk,6789800
+18038,PG0704,Yuzhno-Sakhalinsk,Moscow,6727800
+9359,PG0356,St. Petersburg,Khabarovsk,6724400
+5976,PG0703,Moscow,Yuzhno-Sakhalinsk,6661600
+1322,PG0144,Moscow,Petropavlovsk,6656200
+5260,PG0277,Moscow,Novosibirsk,6624800
+26254,PG0357,Khabarovsk,St. Petersburg,6600200
+25236,PG0199,Irkutsk,St. Petersburg,6556100
+25251,PG0199,Irkutsk,St. Petersburg,6551700
+26175,PG0209,Khabarovsk,Moscow,6537600
+1317,PG0144,Moscow,Petropavlovsk,6527600
+25229,PG0199,Irkutsk,St. Petersburg,6503000
+26197,PG0209,Khabarovsk,Moscow,6488500
+26206,PG0209,Khabarovsk,Moscow,6476100
+9914,PG0278,Novosibirsk,Moscow,6465200
+5274,PG0277,Moscow,Novosibirsk,6456800
+5302,PG0277,Moscow,Novosibirsk,6437200
+9336,PG0356,St. Petersburg,Khabarovsk,6413600
+26203,PG0209,Khabarovsk,Moscow,6353100
+5330,PG0225,Moscow,Yekaterinburg,6304900
+26195,PG0209,Khabarovsk,Moscow,6297800
+5324,PG0225,Moscow,Yekaterinburg,6287600
+5362,PG0225,Moscow,Yekaterinburg,6273500
+5320,PG0225,Moscow,Yekaterinburg,6269000
+5286,PG0277,Moscow,Novosibirsk,6255200
+10908,PG0226,Yekaterinburg,Moscow,6241600
+5360,PG0225,Moscow,Yekaterinburg,6231300
+26258,PG0357,Khabarovsk,St. Petersburg,6227700
+5356,PG0225,Moscow,Yekaterinburg,6222700
+5278,PG0277,Moscow,Novosibirsk,6221600
+26269,PG0357,Khabarovsk,St. Petersburg,6214900
+26174,PG0209,Khabarovsk,Moscow,6211500
+5325,PG0225,Moscow,Yekaterinburg,6204100
+10916,PG0226,Yekaterinburg,Moscow,6202500
+5355,PG0225,Moscow,Yekaterinburg,6178500
+18246,PG0145,Petropavlovsk,Moscow,6175200
+5329,PG0225,Moscow,Yekaterinburg,6155600
+30579,PG0013,Sochi,Moscow,6148600
+10922,PG0226,Yekaterinburg,Moscow,6144000
+5344,PG0225,Moscow,Yekaterinburg,6141000
+5311,PG0225,Moscow,Yekaterinburg,6132300
+5307,PG0225,Moscow,Yekaterinburg,6131100
+5306,PG0225,Moscow,Yekaterinburg,6128200
+5333,PG0225,Moscow,Yekaterinburg,6125000
+5328,PG0225,Moscow,Yekaterinburg,6121000
